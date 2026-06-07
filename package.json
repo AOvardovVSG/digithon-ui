@@ -1,0 +1,43 @@
+{
+  "name": "digithon-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "smoke": "bun run scripts/smoke.ts"
+  },
+  "dependencies": {
+    "@mastra/core": "^1.41.0",
+    "@mastra/loggers": "^1.1.2",
+    "mammoth": "^1.12.0",
+    "next": "16.2.7",
+    "pdfmake": "^0.3.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/pdfmake": "^0.3.3",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.7",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "ignoreScripts": [
+    "sharp",
+    "unrs-resolver"
+  ],
+  "trustedDependencies": [
+    "sharp",
+    "unrs-resolver"
+  ]
+}

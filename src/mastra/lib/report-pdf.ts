@@ -1,0 +1,297 @@
+import pdfmake from 'pdfmake';
+// Default Roboto font descriptor (absolute TTF paths). Roboto ships full Cyrillic,
+// which is required for Bulgarian text. No extra font vendoring needed.
+import robotoFonts from 'pdfmake/fonts/Roboto.js';
+import type { Content, TDocumentDefinitions } from 'pdfmake/interfaces';
+import type { ClientProfile } from '../schemas/input';
+import type {
+  ComparisonResult,
+  Lang,
+  LocalizedText,
+  NamedPick,
+  OfferAnalysis,
+} from '../schemas/output';
+
+// Configure the pdfmake singleton once. Allow local access (needed so it can read the
+// bundled font files) and deny external URL fetches (we never reference remote
+// resources in our document, so this is the safe default and silences the warnings).
+pdfmake.setFonts(robotoFonts);
+pdfmake.setLocalAccessPolicy(() => true);
+pdfmake.setUrlAccessPolicy(() => false);
+
+export interface RenderedPdf {
+  buffer: Buffer;
+  filename: string;
+  /** `data:application/pdf;base64,...` — convenient for returning over JSON. */
+  dataUrl: string;
+}
+
+/** Pick the requested language from a bilingual field, with sensible fallbacks. */
+function t(value: LocalizedText | null | undefined, lang: Lang): string {
+  if (!value) return '';
+  return value[lang] || value.bg || value.en || '';
+}
+
+const LABELS: Record<Lang, Record<string, string>> = {
+  bg: {
+    title: 'Сравнителен анализ на застрахователни оферти',
+    type: 'Вид застраховка',
+    summary: 'Кратко резюме и препоръка',
+    clientNeeds: 'Вашите изисквания и потребности',
+    mostAdvantageous: 'Най-изгодна',
+    cheapest: 'Най-евтина',
+    bestCoverage: 'Най-пълно покритие',
+    overviewTable: 'Обобщена таблица',
+    insurer: 'Застраховател',
+    premium: 'Годишна премия',
+    deductible: 'Самоучастие',
+    score: 'Оценка',
+    offerDetails: 'Подробен преглед на офертите',
+    strengths: 'Силни страни',
+    weaknesses: 'Слаби страни',
+    redFlags: 'Внимание (червени флагове)',
+    coverages: 'Покрития',
+    exclusions: 'Изключения',
+    assistance: 'Асистанс',
+    claims: 'Ликвидация на щети',
+    sumInsured: 'Застрахователна сума / лимит',
+    payment: 'Плащане',
+    similarities: 'Прилики между офертите',
+    differences: 'Разлики между офертите',
+    whatToWatch: 'На какво да обърнете внимание',
+    glossary: 'Речник на термините',
+    disclaimers: 'Важни уточнения',
+    product: 'Продукт',
+    file: 'Файл',
+    na: 'няма данни',
+  },
+  en: {
+    title: 'Comparative analysis of insurance offers',
+    type: 'Insurance type',
+    summary: 'Summary & recommendation',
+    clientNeeds: 'Your demands & needs',
+    mostAdvantageous: 'Most advantageous',
+    cheapest: 'Cheapest',
+    bestCoverage: 'Best coverage',
+    overviewTable: 'Overview table',
+    insurer: 'Insurer',
+    premium: 'Annual premium',
+    deductible: 'Deductible',
+    score: 'Score',
+    offerDetails: 'Detailed offer review',
+    strengths: 'Strengths',
+    weaknesses: 'Weaknesses',
+    redFlags: 'Watch out (red flags)',
+    coverages: 'Coverages',
+    exclusions: 'Exclusions',
+    assistance: 'Assistance',
+    claims: 'Claims handling',
+    sumInsured: 'Sum insured / limit',
+    payment: 'Payment',
+    similarities: 'Similarities between offers',
+    differences: 'Differences between offers',
+    whatToWatch: 'What to watch out for',
+    glossary: 'Glossary',
+    disclaimers: 'Important notes',
+    product: 'Product',
+    file: 'File',
+    na: 'no data',
+  },
+};
+
+function premiumText(offer: OfferAnalysis, na: string): string {
+  if (offer.annualPremium == null) return na;
+  return `${offer.annualPremium.toLocaleString('bg-BG')} ${offer.currency}`;
+}
+
+function bulletList(items: string[], emptyMark = '—'): Content {
+  const filtered = items.filter(Boolean);
+  if (filtered.length === 0) return { text: emptyMark, italics: true, color: '#888' };
+  return { ul: filtered, margin: [0, 2, 0, 4] };
+}
+
+function pickBlock(label: string, pick: NamedPick, lang: Lang, color: string): Content {
+  return {
+    stack: [
+      { text: label, bold: true, color, fontSize: 10 },
+      { text: pick.insurer, bold: true, fontSize: 12, margin: [0, 1, 0, 1] },
+      { text: t(pick.reason, lang), fontSize: 9, color: '#444' },
+    ],
+  };
+}
+
+function offerDetail(offer: OfferAnalysis, lang: Lang, L: Record<string, string>): Content {
+  const head = [offer.insurer, offer.productName].filter(Boolean).join(' — ');
+  const meta = `${L.premium}: ${premiumText(offer, L.na)}  •  ${L.score}: ${Math.round(offer.weightedScore)}/100  •  ${L.file}: ${offer.sourceFile}`;
+
+  const keyTerms: Content[] = [];
+  const addTerm = (label: string, value: LocalizedText | null) => {
+    if (value) keyTerms.push({ text: [{ text: `${label}: `, bold: true }, t(value, lang)], fontSize: 9, margin: [0, 1, 0, 1] });
+  };
+  addTerm(L.sumInsured, offer.sumInsuredOrLimit);
+  addTerm(L.deductible, offer.deductible);
+  addTerm(L.assistance, offer.assistance);
+  addTerm(L.claims, offer.claimsHandling);
+  addTerm(L.payment, offer.paymentOptions);
+
+  // Header + bullet list for a labelled group of localized items (omitted if empty).
+  const section = (label: string, items: LocalizedText[], color?: string): Content[] =>
+    items.length
+      ? [
+          { text: label, bold: true, fontSize: 10, color, margin: [0, 4, 0, 0] },
+          bulletList(items.map((c) => t(c, lang))),
+        ]
+      : [];
+
+  return {
+    stack: [
+      { text: head, bold: true, fontSize: 13, margin: [0, 8, 0, 1] },
+      { text: meta, fontSize: 8, color: '#666', margin: [0, 0, 0, 4] },
+      ...keyTerms,
+      ...section(L.coverages, offer.coverages),
+      ...section(L.exclusions, offer.exclusions),
+      ...section(`✓ ${L.strengths}`, offer.strengths, '#1a7f37'),
+      ...section(`✗ ${L.weaknesses}`, offer.weaknesses, '#b35900'),
+      ...section(`⚠ ${L.redFlags}`, offer.redFlags, '#c00'),
+    ],
+    unbreakable: false,
+    margin: [0, 0, 0, 6],
+  };
+}
+
+function buildDocDefinition(
+  result: ComparisonResult,
+  _profile: ClientProfile | null,
+  lang: Lang,
+): TDocumentDefinitions {
+  const L = LABELS[lang];
+
+  const overviewTable: Content = {
+    table: {
+      headerRows: 1,
+      widths: ['*', 'auto', 'auto', 'auto'],
+      body: [
+        [
+          { text: L.insurer, bold: true, fillColor: '#f0f2f5' },
+          { text: L.premium, bold: true, fillColor: '#f0f2f5' },
+          { text: L.deductible, bold: true, fillColor: '#f0f2f5' },
+          { text: L.score, bold: true, fillColor: '#f0f2f5' },
+        ],
+        ...result.offers.map((o) => [
+          { text: [o.insurer, o.productName ? `\n${o.productName}` : ''].join(''), fontSize: 9 },
+          { text: premiumText(o, L.na), fontSize: 9 },
+          { text: o.deductible ? t(o.deductible, lang) : '—', fontSize: 9 },
+          { text: `${Math.round(o.weightedScore)}/100`, bold: true, fontSize: 9 },
+        ]),
+      ],
+    },
+    layout: 'lightHorizontalLines',
+    margin: [0, 4, 0, 10],
+  };
+
+  const content: Content[] = [
+    { text: L.title, fontSize: 20, bold: true, color: '#0b3d91' },
+    {
+      text: `${L.type}: ${t(result.detectedInsuranceType, lang)}`,
+      fontSize: 11,
+      color: '#555',
+      margin: [0, 2, 0, 10],
+    },
+
+    // Executive summary
+    { text: L.summary, fontSize: 14, bold: true, margin: [0, 6, 0, 2] },
+    {
+      table: { widths: ['*'], body: [[{ text: t(result.executiveSummary, lang), fontSize: 11, margin: [6, 6, 6, 6] }]] },
+      layout: { defaultBorder: false, fillColor: () => '#eef4ff' },
+      margin: [0, 0, 0, 8],
+    },
+  ];
+
+  if (result.clientNeedsSummary) {
+    content.push(
+      { text: L.clientNeeds, fontSize: 12, bold: true, margin: [0, 4, 0, 2] },
+      { text: t(result.clientNeedsSummary, lang), fontSize: 10, margin: [0, 0, 0, 8] },
+    );
+  }
+
+  // Three picks side by side
+  content.push({
+    columns: [
+      pickBlock(L.mostAdvantageous, result.winner, lang, '#1a7f37'),
+      pickBlock(L.cheapest, result.cheapest, lang, '#0b3d91'),
+      pickBlock(L.bestCoverage, result.bestCoverage, lang, '#7a3ea1'),
+    ],
+    columnGap: 12,
+    margin: [0, 4, 0, 12],
+  });
+
+  // Overview table
+  content.push({ text: L.overviewTable, fontSize: 14, bold: true }, overviewTable);
+
+  // Per-offer details
+  content.push({ text: L.offerDetails, fontSize: 14, bold: true, margin: [0, 6, 0, 0] });
+  for (const offer of result.offers) content.push(offerDetail(offer, lang, L));
+
+  // Similarities / differences / what to watch
+  const pushSection = (label: string, items: LocalizedText[]) =>
+    content.push(
+      { text: label, fontSize: 13, bold: true, margin: [0, 8, 0, 2] },
+      bulletList(items.map((s) => t(s, lang))),
+    );
+  pushSection(L.similarities, result.similarities);
+  pushSection(L.differences, result.differences);
+  pushSection(L.whatToWatch, result.whatToWatch);
+
+  // Glossary
+  if (result.glossary.length) {
+    content.push({ text: L.glossary, fontSize: 13, bold: true, margin: [0, 8, 0, 2] });
+    content.push({
+      ul: result.glossary.map((g) => ({
+        text: [{ text: `${t(g.term, lang)}: `, bold: true }, t(g.definition, lang)],
+        fontSize: 9,
+        margin: [0, 1, 0, 1],
+      })),
+    });
+  }
+
+  // Disclaimers
+  if (result.disclaimers.length) {
+    content.push(
+      { text: L.disclaimers, fontSize: 11, bold: true, margin: [0, 10, 0, 2] },
+      {
+        ul: result.disclaimers.map((d) => t(d, lang)),
+        fontSize: 8,
+        italics: true,
+        color: '#777',
+      },
+    );
+  }
+
+  return {
+    content,
+    defaultStyle: { font: 'Roboto', fontSize: 10, lineHeight: 1.15 },
+    pageMargins: [40, 40, 40, 50],
+    footer: (currentPage: number, pageCount: number) => ({
+      text: `${currentPage} / ${pageCount}`,
+      alignment: 'center',
+      fontSize: 8,
+      color: '#999',
+      margin: [0, 10, 0, 0],
+    }),
+  };
+}
+
+/** Render a ComparisonResult into a styled PDF (Bulgarian by default). */
+export async function renderComparisonPdf(
+  result: ComparisonResult,
+  profile: ClientProfile | null,
+  lang: Lang = 'bg',
+): Promise<RenderedPdf> {
+  const docDefinition = buildDocDefinition(result, profile, lang);
+  const buffer: Buffer = await pdfmake.createPdf(docDefinition).getBuffer();
+  return {
+    buffer,
+    filename: `insurance-comparison-${lang}.pdf`,
+    dataUrl: `data:application/pdf;base64,${buffer.toString('base64')}`,
+  };
+}
