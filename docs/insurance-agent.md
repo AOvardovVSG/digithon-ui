@@ -90,6 +90,7 @@ src/mastra/
   index.ts                              Mastra instance
   agents/insurance-comparison-agent.ts  the Agent (model, system prompt)
   prompts/insurance-system-prompt.ts    expert Bulgarian system prompt
+  prompts/clause-legends.ts             per-insurer risk-clause legend reference (property/fire)
   schemas/{input,output}.ts             zod schemas (input + bilingual output)
   lib/document-parsing.ts               files → model content parts
   lib/analyze.ts                        orchestration: parse → generate → render
