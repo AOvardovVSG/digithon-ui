@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "smoke": "bun run scripts/smoke.ts"
+    "smoke": "bun run scripts/smoke.ts",
+    "analyze": "bun run scripts/analyze-files.ts"
   },
   "dependencies": {
     "@mastra/core": "^1.41.0",

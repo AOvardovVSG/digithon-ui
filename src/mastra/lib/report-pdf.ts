@@ -6,6 +6,7 @@ import type { Content, TDocumentDefinitions } from 'pdfmake/interfaces';
 import type { ClientProfile } from '../schemas/input';
 import type {
   ComparisonResult,
+  CoverageCell,
   Lang,
   LocalizedText,
   NamedPick,
@@ -41,6 +42,11 @@ const LABELS: Record<Lang, Record<string, string>> = {
     mostAdvantageous: 'Най-изгодна',
     cheapest: 'Най-евтина',
     bestCoverage: 'Най-пълно покритие',
+    insuredSubject: 'Обект на застраховане',
+    address: 'Адрес',
+    coverageMatrix: 'Сравнителна матрица на покритията',
+    coverageCol: 'Застрахователни покрития',
+    premiumRow: 'Застрахователна премия',
     overviewTable: 'Обобщена таблица',
     insurer: 'Застраховател',
     premium: 'Годишна премия',
@@ -73,6 +79,11 @@ const LABELS: Record<Lang, Record<string, string>> = {
     mostAdvantageous: 'Most advantageous',
     cheapest: 'Cheapest',
     bestCoverage: 'Best coverage',
+    insuredSubject: 'Insured subject',
+    address: 'Address',
+    coverageMatrix: 'Coverage comparison matrix',
+    coverageCol: 'Insurance coverages',
+    premiumRow: 'Insurance premium',
     overviewTable: 'Overview table',
     insurer: 'Insurer',
     premium: 'Annual premium',
@@ -120,6 +131,130 @@ function pickBlock(label: string, pick: NamedPick, lang: Lang, color: string): C
   };
 }
 
+/** Format an amount + optional currency, e.g. "5 112 308.50 BGN". */
+function moneyText(amount: number | null, currency: string | null, na: string): string {
+  if (amount == null) return na;
+  return `${amount.toLocaleString('bg-BG')}${currency ? ` ${currency}` : ''}`;
+}
+
+/** Normalize an insurer name for matching cells/premiums to matrix columns. */
+function normName(s: string): string {
+  return s.trim().toLowerCase();
+}
+
+/** The "Обект на застраховане" header block — itemized insured objects + address. */
+function insuredSubjectBlock(result: ComparisonResult, lang: Lang, L: Record<string, string>): Content[] {
+  const subject = result.insuredSubject;
+  if (!subject || (subject.items.length === 0 && !subject.address)) return [];
+
+  const out: Content[] = [{ text: L.insuredSubject, fontSize: 14, bold: true, margin: [0, 8, 0, 2] }];
+
+  if (subject.items.length) {
+    out.push({
+      table: {
+        widths: ['*', 'auto'],
+        body: subject.items.map((it) => [
+          { text: t(it.label, lang), fontSize: 9 },
+          { text: moneyText(it.sumInsured, it.currency, '—'), fontSize: 9, alignment: 'right' },
+        ]),
+      },
+      layout: 'lightHorizontalLines',
+      margin: [0, 0, 0, 4],
+    });
+  }
+  if (subject.address) {
+    out.push({
+      text: [{ text: `${L.address}: `, bold: true }, t(subject.address, lang)],
+      fontSize: 9,
+      margin: [0, 0, 0, 6],
+    });
+  }
+  return out;
+}
+
+/**
+ * A checkmark as inline SVG. The bundled Roboto font has no dingbat glyphs (✔/✓ render
+ * as tofu), so we draw the tick as vector — font-independent and crisp at any size.
+ */
+function svgCheck(color: string): Content {
+  return {
+    svg: `<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12"><path d="M2.5 6.5 L5 9 L9.5 3.5" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+    width: 9,
+    alignment: 'center',
+  };
+}
+
+/** Render one matrix cell: a sub-limit/amount if present, else a status mark. */
+function coverageCellContent(cell: CoverageCell | undefined, lang: Lang): Content {
+  const base = { fontSize: 8, alignment: 'center' as const };
+  if (!cell) return { text: '—', color: '#bbb', ...base };
+
+  const limit = cell.limit ? t(cell.limit, lang) : '';
+  if (limit && cell.status !== 'no') return { text: limit, color: '#333', ...base };
+
+  switch (cell.status) {
+    case 'yes':
+      return svgCheck('#1a7f37');
+    case 'partial':
+      return svgCheck('#b35900');
+    case 'no':
+      return { text: '', ...base };
+    default:
+      return { text: '—', color: '#bbb', ...base }; // unknown
+  }
+}
+
+/**
+ * The coverage matrix: rows = normalized risks, columns = insurers, cells = ✔ / amount /
+ * blank. A bold premium row (taken from the offers, the single source of truth for price)
+ * is appended at the bottom, matching the reference layout.
+ */
+function coverageMatrixTable(result: ComparisonResult, lang: Lang, L: Record<string, string>): Content | null {
+  const matrix = result.coverageMatrix;
+  if (!matrix || matrix.rows.length === 0) return null;
+
+  // Column order: the matrix's own insurer list, falling back to the offers order.
+  const columns = matrix.insurers.length ? matrix.insurers : result.offers.map((o) => o.insurer);
+  const headFill = '#0b3d91';
+
+  const headerRow: Content[] = [
+    { text: L.coverageCol, bold: true, color: 'white', fillColor: headFill, fontSize: 9 },
+    ...columns.map((c) => ({ text: c, bold: true, color: 'white', fillColor: headFill, fontSize: 9, alignment: 'center' as const })),
+  ];
+
+  const bodyRows: Content[][] = matrix.rows.map((row) => {
+    const byInsurer = new Map(row.cells.map((c) => [normName(c.insurer), c]));
+    return [
+      { text: t(row.risk, lang), fontSize: 8 },
+      ...columns.map((col) => coverageCellContent(byInsurer.get(normName(col)), lang)),
+    ];
+  });
+
+  // Premium row, mapped from the offers by insurer name.
+  const offerByInsurer = new Map(result.offers.map((o) => [normName(o.insurer), o]));
+  const premiumFill = '#eef4ff';
+  const premiumRow: Content[] = [
+    { text: L.premiumRow, bold: true, fontSize: 9, fillColor: premiumFill },
+    ...columns.map((col) => {
+      const o = offerByInsurer.get(normName(col));
+      return { text: o ? premiumText(o, L.na) : L.na, bold: true, fontSize: 9, alignment: 'center' as const, fillColor: premiumFill };
+    }),
+  ];
+
+  return {
+    table: {
+      headerRows: 1,
+      widths: ['*', ...columns.map(() => 'auto')],
+      body: [headerRow, ...bodyRows, premiumRow],
+    },
+    // Zebra striping on body rows; header and premium-row cells set their own fill.
+    layout: {
+      fillColor: (rowIndex: number) => (rowIndex > 0 && rowIndex % 2 === 0 ? '#f7f9fc' : null),
+    },
+    margin: [0, 4, 0, 10],
+  };
+}
+
 function offerDetail(offer: OfferAnalysis, lang: Lang, L: Record<string, string>): Content {
   const head = [offer.insurer, offer.productName].filter(Boolean).join(' — ');
   const meta = `${L.premium}: ${premiumText(offer, L.na)}  •  ${L.score}: ${Math.round(offer.weightedScore)}/100  •  ${L.file}: ${offer.sourceFile}`;
@@ -150,9 +285,10 @@ function offerDetail(offer: OfferAnalysis, lang: Lang, L: Record<string, string>
       ...keyTerms,
       ...section(L.coverages, offer.coverages),
       ...section(L.exclusions, offer.exclusions),
-      ...section(`✓ ${L.strengths}`, offer.strengths, '#1a7f37'),
-      ...section(`✗ ${L.weaknesses}`, offer.weaknesses, '#b35900'),
-      ...section(`⚠ ${L.redFlags}`, offer.redFlags, '#c00'),
+      // Plain "+/–/!" prefixes — Roboto has no dingbat glyphs; the color carries the meaning.
+      ...section(`+ ${L.strengths}`, offer.strengths, '#1a7f37'),
+      ...section(`– ${L.weaknesses}`, offer.weaknesses, '#b35900'),
+      ...section(`! ${L.redFlags}`, offer.redFlags, '#c00'),
     ],
     unbreakable: false,
     margin: [0, 0, 0, 6],
@@ -224,6 +360,13 @@ function buildDocDefinition(
     columnGap: 12,
     margin: [0, 4, 0, 12],
   });
+
+  // Insured subject + coverage matrix (the heart of the report)
+  content.push(...insuredSubjectBlock(result, lang, L));
+  const matrixTable = coverageMatrixTable(result, lang, L);
+  if (matrixTable) {
+    content.push({ text: L.coverageMatrix, fontSize: 14, bold: true, margin: [0, 6, 0, 2] }, matrixTable);
+  }
 
   // Overview table
   content.push({ text: L.overviewTable, fontSize: 14, bold: true }, overviewTable);

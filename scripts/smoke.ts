@@ -63,6 +63,43 @@ const sample: ComparisonResult = {
       weightedScore: 64,
     },
   ],
+  insuredSubject: {
+    items: [{ label: L('Лек автомобил (по пазарна стойност)', 'Passenger car (market value)'), sumInsured: 45000, currency: 'BGN' }],
+    address: null,
+  },
+  coverageMatrix: {
+    insurers: ['Алфа Иншурънс', 'Бета Застраховане'],
+    rows: [
+      {
+        risk: L('Пътнотранспортно произшествие (ПТП)', 'Road accident'),
+        cells: [
+          { insurer: 'Алфа Иншурънс', status: 'yes', limit: null },
+          { insurer: 'Бета Застраховане', status: 'yes', limit: null },
+        ],
+      },
+      {
+        risk: L('Кражба', 'Theft'),
+        cells: [
+          { insurer: 'Алфа Иншурънс', status: 'yes', limit: null },
+          { insurer: 'Бета Застраховане', status: 'no', limit: null },
+        ],
+      },
+      {
+        risk: L('Чупене на стъкла', 'Glass breakage'),
+        cells: [
+          { insurer: 'Алфа Иншурънс', status: 'partial', limit: L('до 500 BGN', 'up to BGN 500') },
+          { insurer: 'Бета Застраховане', status: 'no', limit: null },
+        ],
+      },
+      {
+        risk: L('Природни бедствия', 'Natural disasters'),
+        cells: [
+          { insurer: 'Алфа Иншурънс', status: 'yes', limit: null },
+          { insurer: 'Бета Застраховане', status: 'unknown', limit: null },
+        ],
+      },
+    ],
+  },
   similarities: [L('И двете покриват ПТП', 'Both cover road accidents')],
   differences: [L('Само Алфа покрива стъкла и кражба на части', 'Only Alpha covers glass and parts theft')],
   winner: { insurer: 'Алфа Иншурънс', sourceFile: 'alpha-casco.pdf', reason: L('Най-добър баланс за нова кола на лизинг.', 'Best balance for a new leased car.') },

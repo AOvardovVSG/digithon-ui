@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>BrokerCopilot — Pitch</title>
+<style>
+  :root{
+    --bg:#07071A;
+    --bg2:#0B0A24;
+    --ink:#FFFFFF;
+    --muted:#9694B4;
+    --muted2:#6F6D8E;
+    --purple:#A89BFF;
+    --purple-bright:#C3B6FF;
+    --blue:#3D5BFF;
+    --orange:#FF6A2B;
+    --green:#9BE356;
+    --hair:rgba(255,255,255,.10);
+    --card:rgba(255,255,255,.035);
+  }
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  html,body{background:#000;}
+  @page{ size:1280px 720px; margin:0; }
+
+  .slide{
+    position:relative;
+    width:1280px;height:720px;
+    background:
+      radial-gradient(1200px 700px at 88% -10%, rgba(61,91,255,.16), transparent 60%),
+      radial-gradient(900px 600px at 110% 120%, rgba(168,155,255,.10), transparent 55%),
+      linear-gradient(180deg,var(--bg2),var(--bg));
+    color:var(--ink);
+    overflow:hidden;
+    page-break-after:always;
+    font-family:"Helvetica Neue",Arial,sans-serif;
+    display:flex;flex-direction:column;
+  }
+  .slide:last-child{page-break-after:auto;}
+
+  /* halftone dot texture */
+  .dots{
+    position:absolute;inset:0;
+    background-image:radial-gradient(circle, rgba(140,124,255,.55) 1.5px, transparent 1.8px);
+    background-size:24px 24px;
+    -webkit-mask-image:linear-gradient(120deg, transparent 34%, #000 105%);
+    mask-image:linear-gradient(120deg, transparent 34%, #000 105%);
+    opacity:.45;pointer-events:none;
+  }
+  .dots.soft{opacity:.28;-webkit-mask-image:linear-gradient(60deg, transparent 45%, #000 115%);mask-image:linear-gradient(60deg, transparent 45%, #000 115%);}
+
+  /* chrome */
+  .pad{position:relative;z-index:2;flex:1;display:flex;flex-direction:column;padding:60px 76px;}
+  header.bar{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;
+    padding:30px 76px 0;font-family:Menlo,monospace;}
+  .wordmark{font-weight:700;font-size:21px;letter-spacing:-.5px;}
+  .wordmark .b{color:var(--purple-bright);}
+  .idx{font-size:13px;color:var(--muted2);letter-spacing:3px;}
+  footer.foot{position:relative;z-index:2;text-align:center;padding:0 0 30px;
+    font-family:Menlo,monospace;font-size:12.5px;letter-spacing:4px;color:var(--muted2);}
+  .rule{height:1px;background:var(--hair);margin:18px 76px 0;position:relative;z-index:2;}
+
+  .eyebrow{font-family:Menlo,monospace;font-size:14px;letter-spacing:5px;text-transform:uppercase;margin-bottom:26px;}
+  .eyebrow.p{color:var(--purple);}
+  .eyebrow.o{color:var(--orange);}
+  .eyebrow.b{color:var(--blue);}
+  .eyebrow.g{color:var(--green);}
+
+  .display{font-family:"Avenir Next","Futura","Helvetica Neue",sans-serif;font-weight:800;letter-spacing:-1.5px;line-height:.98;}
+  .spacer{flex:1;}
+
+  /* slide 1 */
+  .hero h1{font-family:"Avenir Next","Futura",sans-serif;font-weight:800;font-size:138px;letter-spacing:-4px;line-height:.92;}
+  .hero h1 .b{color:var(--purple-bright);}
+  .hero .promise{font-size:35px;line-height:1.28;font-weight:300;color:#E9E8FF;max-width:1010px;margin-top:34px;}
+  .hero .promise b{font-weight:700;color:#fff;}
+  .hero .promise .wk{color:var(--orange);font-weight:700;}
+  .hero .promise .mn{color:var(--green);font-weight:700;}
+
+  /* big number */
+  .bignum{font-family:"Avenir Next","Futura",sans-serif;font-weight:800;letter-spacing:-5px;line-height:.85;font-size:200px;color:var(--orange);}
+  .bignum.blue{color:var(--blue);}
+  .sub-lg{font-size:34px;font-weight:300;color:#E9E8FF;line-height:1.3;max-width:880px;}
+  .sub-lg b{font-weight:700;color:#fff;}
+  .kicker{font-family:"Avenir Next","Futura",sans-serif;font-style:italic;font-weight:800;font-size:30px;letter-spacing:-.5px;}
+  .kicker.o{color:var(--orange);}
+  .kicker.p{color:var(--purple-bright);}
+
+  .h2{font-size:62px;font-weight:800;letter-spacing:-1.8px;line-height:1.02;font-family:"Avenir Next","Futura",sans-serif;max-width:1040px;}
+  .h2 .o{color:var(--orange);}
+  .h2 .p{color:var(--purple-bright);}
+  .h2 .g{color:var(--green);}
+
+  .body{font-size:25px;line-height:1.45;color:#D9D8EC;font-weight:300;max-width:980px;}
+  .body b{font-weight:700;color:#fff;}
+
+  /* 3-col pain */
+  .cols{display:flex;gap:30px;margin-top:14px;}
+  .col{flex:1;border-top:2px solid var(--hair);padding-top:20px;}
+  .col .n{font-family:Menlo,monospace;font-size:13px;letter-spacing:3px;color:var(--purple);margin-bottom:14px;}
+  .col h3{font-size:27px;font-weight:800;letter-spacing:-.6px;margin-bottom:12px;font-family:"Avenir Next","Futura",sans-serif;}
+  .col p{font-size:18.5px;line-height:1.42;color:#BAB8D2;font-weight:300;}
+  .col.o{border-top-color:rgba(255,106,43,.7);}
+  .col.o .n{color:var(--orange);}
+  .col.b{border-top-color:rgba(61,91,255,.8);}
+  .col.b .n{color:#7E92FF;}
+
+  /* steps */
+  .steps{display:flex;align-items:stretch;gap:18px;margin-top:8px;}
+  .step{flex:1;background:var(--card);border:1px solid var(--hair);border-radius:18px;padding:22px 22px;display:flex;flex-direction:column;}
+  .step .badge{width:46px;height:46px;border-radius:12px;display:flex;align-items:center;justify-content:center;
+    font-family:"Avenir Next",sans-serif;font-weight:800;font-size:22px;color:#0A0820;margin-bottom:18px;}
+  .step:nth-child(1) .badge{background:var(--purple-bright);}
+  .step:nth-child(3) .badge{background:var(--blue);color:#fff;}
+  .step:nth-child(5) .badge{background:var(--green);}
+  .step .lab{font-family:Menlo,monospace;font-size:12.5px;letter-spacing:2.5px;color:var(--muted);margin-bottom:10px;}
+  .step h3{font-size:24px;font-weight:800;letter-spacing:-.6px;margin-bottom:11px;font-family:"Avenir Next","Futura",sans-serif;}
+  .step p{font-size:16px;line-height:1.4;color:#C4C2DC;font-weight:300;}
+  .arrow{display:flex;align-items:center;color:var(--muted2);font-size:34px;font-weight:300;}
+
+  .note{margin-top:16px;display:flex;gap:14px;align-items:center;background:rgba(155,227,86,.07);
+    border:1px solid rgba(155,227,86,.25);border-radius:14px;padding:14px 22px;max-width:max-content;}
+  .note .dot{width:10px;height:10px;border-radius:50%;background:var(--green);box-shadow:0 0 14px var(--green);}
+  .note span{font-size:18.5px;color:#E4F4D4;font-weight:300;}
+  .note span b{color:#fff;font-weight:700;}
+
+  /* result */
+  .ba{display:flex;align-items:center;gap:40px;margin:6px 0 6px;}
+  .ba .blk{display:flex;flex-direction:column;}
+  .ba .t{font-family:Menlo,monospace;font-size:13px;letter-spacing:3px;color:var(--muted2);margin-bottom:8px;}
+  .ba .v{font-family:"Avenir Next","Futura",sans-serif;font-weight:800;letter-spacing:-2px;line-height:.9;}
+  .ba .v.was{font-size:82px;color:#E9E8FF;}
+  .ba .v.now{font-size:82px;color:var(--green);}
+  .ba .to{font-size:80px;color:var(--orange);font-weight:300;}
+  .ba .pct{align-self:flex-end;font-size:22px;color:var(--muted);font-weight:300;max-width:220px;line-height:1.3;}
+  .ba .pct b{color:var(--orange);font-weight:700;}
+
+  .tiles{display:flex;gap:18px;margin-top:8px;}
+  .tile{flex:1;border:1px solid var(--hair);border-radius:16px;padding:18px 22px;background:var(--card);}
+  .tile .big{font-family:"Avenir Next","Futura",sans-serif;font-weight:800;font-size:38px;letter-spacing:-1.5px;margin-bottom:6px;}
+  .tile .big.p{color:var(--purple-bright);}
+  .tile .big.b{color:#7E92FF;}
+  .tile .big.o{color:var(--orange);}
+  .tile p{font-size:17.5px;color:#BAB8D2;font-weight:300;line-height:1.38;}
+
+  .close{font-family:"Avenir Next","Futura",sans-serif;font-weight:800;font-size:38px;letter-spacing:-1.2px;line-height:1.08;margin-top:10px;}
+  .close .b{color:var(--purple-bright);}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1 — TITLE -->
+<section class="slide">
+  <div class="dots"></div>
+  <header class="bar"><div class="wordmark">Broker<span class="b">Copilot</span></div><div class="idx">01 / 05</div></header>
+  <div class="rule"></div>
+  <div class="pad hero">
+    <div class="spacer"></div>
+    <div class="eyebrow o">AI EMPLOYEE · FOR INSURANCE BROKERS</div>
+    <h1>Broker<span class="b">Copilot</span></h1>
+    <p class="promise">It reads <b>every</b> insurance offer, compares them all, and recommends the best policy for your client — in <span class="mn">minutes</span>, not <span class="wk">weeks</span>.</p>
+    <div class="spacer"></div>
+  </div>
+  <footer class="foot">07 JUNE 2026 · SOFIA · WORKBETTER 1.0 · DIGITHON</footer>
+</section>
+
+<!-- SLIDE 2 — THE PROBLEM -->
+<section class="slide">
+  <div class="dots"></div>
+  <header class="bar"><div class="wordmark">Broker<span class="b">Copilot</span></div><div class="idx">02 / 05</div></header>
+  <div class="rule"></div>
+  <div class="pad">
+    <div class="eyebrow p">THE PROBLEM</div>
+    <div class="spacer"></div>
+    <div style="display:flex;align-items:flex-end;gap:34px;flex-wrap:wrap;">
+      <div class="bignum">2&ndash;3<span style="font-size:96px;letter-spacing:-2px;"> weeks</span></div>
+      <div class="sub-lg" style="padding-bottom:30px;">to compare the offers for <b>one</b> client.</div>
+    </div>
+    <p class="body" style="margin-top:30px;">A broker gathers <b>10–20 offers</b>. Every insurer sends a different format — <b>PDF, Excel, Word</b> — with different wording, different limits, different exclusions buried in the fine print. Then the broker reads <b>all of it. By hand. Line by line.</b></p>
+    <div class="spacer"></div>
+    <div class="kicker o">Every single client. By hand. In 2026.</div>
+  </div>
+  <footer class="foot">07 JUNE 2026 · SOFIA · WORKBETTER 1.0 · DIGITHON</footer>
+</section>
+
+<!-- SLIDE 3 — WHY IT'S ABSURD -->
+<section class="slide">
+  <div class="dots soft"></div>
+  <header class="bar"><div class="wordmark">Broker<span class="b">Copilot</span></div><div class="idx">03 / 05</div></header>
+  <div class="rule"></div>
+  <div class="pad">
+    <div class="eyebrow o">WHY IT'S ABSURD</div>
+    <h2 class="h2">The sharpest expert in the room is stuck doing <span class="o">data entry.</span></h2>
+    <div class="spacer"></div>
+    <div class="cols">
+      <div class="col">
+        <div class="n">01 · TIME</div>
+        <h3>Weeks, gone.</h3>
+        <p>2–3 weeks vanish into one comparison — then it starts all over for the next client. The work never ends.</p>
+      </div>
+      <div class="col o">
+        <div class="n">02 · DEALS</div>
+        <h3>Clients walk.</h3>
+        <p>While the broker is still on page 47, the client gets bored and signs with whoever answered first.</p>
+      </div>
+      <div class="col b">
+        <div class="n">03 · RISK</div>
+        <h3>One missed clause.</h3>
+        <p>Skim past a single exclusion and the claim gets denied. The client loses — and blames the broker.</p>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="kicker p">Nobody should compare insurance with a highlighter and a prayer.</div>
+  </div>
+  <footer class="foot">07 JUNE 2026 · SOFIA · WORKBETTER 1.0 · DIGITHON</footer>
+</section>
+
+<!-- SLIDE 4 — THE FIX -->
+<section class="slide">
+  <div class="dots soft"></div>
+  <header class="bar"><div class="wordmark">Broker<span class="b">Copilot</span></div><div class="idx">04 / 05</div></header>
+  <div class="rule"></div>
+  <div class="pad" style="padding-top:46px;padding-bottom:40px;">
+    <div class="eyebrow g">THE FIX</div>
+    <h2 class="h2" style="font-size:44px;">BrokerCopilot does the reading. <span class="g">You do the closing.</span></h2>
+    <div class="spacer"></div>
+    <div class="steps">
+      <div class="step">
+        <div class="badge">1</div>
+        <div class="lab">DROP IN</div>
+        <h3>Every offer, any format.</h3>
+        <p>Upload all the offers — PDF, Excel, Word. Any insurer, any layout. No re-typing.</p>
+      </div>
+      <div class="arrow">→</div>
+      <div class="step">
+        <div class="badge">2</div>
+        <div class="lab">THE AGENT READS</div>
+        <h3>It compares, not chats.</h3>
+        <p>An AI agent parses each document, normalizes the terms, and lines up coverage, limits, exclusions &amp; price — apples to apples.</p>
+      </div>
+      <div class="arrow">→</div>
+      <div class="step">
+        <div class="badge">3</div>
+        <div class="lab">GET THE ANSWER</div>
+        <h3>A recommendation + report.</h3>
+        <p>A ranked best-fit pick for <i>this</i> client, plus a ready-to-send PDF report. In ~2 minutes.</p>
+      </div>
+    </div>
+    <div class="note"><div class="dot"></div><span><b>Not a chatbot.</b> A working agent that ingests real documents and returns structured, auditable output.</span></div>
+    <div class="spacer"></div>
+  </div>
+  <footer class="foot">07 JUNE 2026 · SOFIA · WORKBETTER 1.0 · DIGITHON</footer>
+</section>
+
+<!-- SLIDE 5 — THE RESULT -->
+<section class="slide">
+  <div class="dots"></div>
+  <header class="bar"><div class="wordmark">Broker<span class="b">Copilot</span></div><div class="idx">05 / 05</div></header>
+  <div class="rule"></div>
+  <div class="pad" style="padding-bottom:44px;">
+    <div class="eyebrow o">THE RESULT</div>
+    <div class="spacer"></div>
+    <div class="ba">
+      <div class="blk"><div class="t">BEFORE</div><div class="v was">2–3 weeks</div></div>
+      <div class="to">→</div>
+      <div class="blk"><div class="t">WITH BROKERCOPILOT</div><div class="v now">~2 min</div></div>
+      <div class="pct">≈ <b>99%</b> of the manual work — gone.</div>
+    </div>
+    <div class="spacer"></div>
+    <div class="tiles">
+      <div class="tile"><div class="big p">10×</div><p>the clients served by the same broker, same day.</p></div>
+      <div class="tile"><div class="big b">0</div><p>missed clauses — the agent never skims, never tires.</p></div>
+      <div class="tile"><div class="big o">EU-ready</div><p>every broker in Bulgaria today; the EU market next.</p></div>
+    </div>
+    <div class="spacer"></div>
+    <div class="close">Broker<span class="b">Copilot</span> — the AI employee that turns <span style="color:var(--green)">weeks</span> into <span style="color:var(--orange)">minutes.</span></div>
+  </div>
+  <footer class="foot">07 JUNE 2026 · SOFIA · WORKBETTER 1.0 · DIGITHON</footer>
+</section>
+
+</body>
+</html>
