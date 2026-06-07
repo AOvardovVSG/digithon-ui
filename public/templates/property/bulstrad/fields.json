@@ -1,0 +1,6486 @@
+{
+  "provider": "bulstrad",
+  "source": "bulstrad.pdf",
+  "fields": [
+    {
+      "name": "до",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        263.81,
+        632.38,
+        341.35,
+        646.78
+      ],
+      "onState": null
+    },
+    {
+      "name": "Трето ползващо се лице (ако има такова)",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        236.57,
+        620.86,
+        552.94,
+        632.38
+      ],
+      "onState": null
+    },
+    {
+      "name": "Период на застраховката: от",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        181.34,
+        635.26,
+        249.88,
+        646.78
+      ],
+      "onState": null
+    },
+    {
+      "name": "Основна дейност",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        133.1,
+        664.18,
+        210.64,
+        675.7
+      ],
+      "onState": null
+    },
+    {
+      "name": "Код по НКИД",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        493.06,
+        664.18,
+        552.94,
+        675.7
+      ],
+      "onState": null
+    },
+    {
+      "name": "Код по НКИД_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        493.06,
+        649.78,
+        552.94,
+        661.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 002 „Допълнителни разходи” (над 2 % от общата застр сума или от 15 000 лева) – лимит",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        142.94,
+        73.1,
+        152.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 002 „Допълнителни разходи” (над 2 % от общата застр сума или от 15 000 лева) – лимит_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        468.58,
+        142.22,
+        491.5,
+        153.74
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 006 „Кражба чрез взлом и грабеж” –",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        99.5,
+        73.1,
+        109.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "лимит на отговорност",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        98.78,
+        439.03,
+        110.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "допълнително покритие „Кражба с техническо средство”",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        78.74,
+        69.86,
+        88.7,
+        79.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "подлимит",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        372.31,
+        69.14,
+        397.51,
+        80.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "да",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        84.38,
+        377.35,
+        94.34
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        406.51,
+        84.38,
+        416.47,
+        94.34
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 005 „Стъкло” –",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        128.42,
+        73.1,
+        138.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 007 „Стъкло – всички рискове” –",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        114.02,
+        73.1,
+        123.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "лимит за кв м",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        317.45,
+        127.7,
+        340.39,
+        139.22
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит за кв м_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        317.45,
+        113.3,
+        340.39,
+        124.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "общ лимит",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        410.47,
+        127.7,
+        433.39,
+        139.22
+      ],
+      "onState": null
+    },
+    {
+      "name": "общ лимит_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        410.47,
+        113.3,
+        433.39,
+        124.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "посочения по т 1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        173.9,
+        197.32,
+        183.86
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "действителна стойност",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        190.46,
+        305.33,
+        200.42
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друг адрес",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        173.9,
+        305.33,
+        183.86
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друг адрес_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        353.83,
+        173.18,
+        376.63,
+        184.7
+      ],
+      "onState": null
+    },
+    {
+      "name": "възстановителна стойност",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        190.46,
+        449.37,
+        200.42
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "32_2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.01,
+        233.32,
+        307.95,
+        245.91
+      ],
+      "onState": null
+    },
+    {
+      "name": "32_4",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        86.78,
+        232.85,
+        234.05,
+        247.85
+      ],
+      "onState": null
+    },
+    {
+      "name": "32_5",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.98,
+        232.85,
+        86.78,
+        247.85
+      ],
+      "onState": null
+    },
+    {
+      "name": "32_6",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.5,
+        218.32,
+        306.98,
+        231.39
+      ],
+      "onState": null
+    },
+    {
+      "name": "5)",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        248.81,
+        547.18,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        278.81,
+        547.18,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_2",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        293.69,
+        547.18,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_3",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        308.69,
+        547.18,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_4",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        323.69,
+        547.18,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_5",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        338.69,
+        547.18,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_6",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        368.57,
+        547.18,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_7",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        383.57,
+        547.18,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_8",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        398.57,
+        547.18,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_9",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        413.59,
+        547.18,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_10",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        428.47,
+        547.18,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5)_11",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        537.22,
+        443.47,
+        547.18,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_12",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        248.81,
+        522.46,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_13",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        278.81,
+        522.46,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_14",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        293.69,
+        522.46,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_15",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        308.69,
+        522.46,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_16",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        323.69,
+        522.46,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_17",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        338.69,
+        522.46,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_18",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        368.57,
+        522.46,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_19",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        383.57,
+        522.46,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_20",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        398.57,
+        522.46,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_21",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        413.59,
+        522.46,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_22",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        428.47,
+        522.46,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "011_23",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.5,
+        443.47,
+        522.46,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_9",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        248.81,
+        479.86,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_10",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        278.81,
+        479.86,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_11",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        293.69,
+        479.86,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_12",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        308.69,
+        479.86,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_13",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        323.69,
+        479.86,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_14",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        338.69,
+        479.86,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_15",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        368.57,
+        479.86,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_16",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        383.57,
+        479.86,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_17",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        398.57,
+        479.86,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_18",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        413.59,
+        479.86,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_19",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        428.47,
+        479.86,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "006_20",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        469.9,
+        443.47,
+        479.86,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        248.81,
+        465.7,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        278.81,
+        465.7,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_2",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        293.69,
+        465.7,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_3",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        308.69,
+        465.7,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_4",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        323.69,
+        465.7,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_5",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        338.69,
+        465.7,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_6",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        368.57,
+        465.7,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_7",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        383.57,
+        465.7,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_8",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        398.57,
+        465.7,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_9",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        413.59,
+        465.7,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_10",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        428.47,
+        465.7,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_11",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.74,
+        443.47,
+        465.7,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_12",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        248.81,
+        451.53,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_13",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        278.81,
+        451.53,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_14",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        293.69,
+        451.53,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_15",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        308.69,
+        451.53,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_16",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        323.69,
+        451.53,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_17",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        338.69,
+        451.53,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_18",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        368.57,
+        451.53,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_19",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        383.57,
+        451.53,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_20",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        398.57,
+        451.53,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_21",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        413.59,
+        451.53,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_22",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        428.47,
+        451.53,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "003_23",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.55,
+        443.47,
+        451.53,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        248.81,
+        437.35,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_2",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        278.81,
+        437.35,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_3",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        293.69,
+        437.35,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_4",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        308.69,
+        437.35,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_5",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        323.69,
+        437.35,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_6",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        338.69,
+        437.35,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_7",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        368.57,
+        437.35,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_8",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        383.57,
+        437.35,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_9",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        398.57,
+        437.35,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_10",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        413.59,
+        437.35,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_11",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        428.47,
+        437.35,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_12",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        427.39,
+        443.47,
+        437.35,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_13",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        248.81,
+        423.19,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_14",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        278.81,
+        423.19,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_15",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        293.69,
+        423.19,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_16",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        308.69,
+        423.19,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_17",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        323.69,
+        423.19,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_18",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        338.69,
+        423.19,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_19",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        368.57,
+        423.19,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_20",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        383.57,
+        423.19,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_21",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        398.57,
+        423.19,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_22",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        413.59,
+        423.19,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_23",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        428.47,
+        423.19,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_24",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        413.23,
+        443.47,
+        423.19,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_25",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        248.81,
+        409.03,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_26",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        278.81,
+        409.03,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_27",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        293.69,
+        409.03,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_28",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        308.69,
+        409.03,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_29",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        323.69,
+        409.03,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_30",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        338.69,
+        409.03,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_31",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        368.57,
+        409.03,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_32",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        383.57,
+        409.03,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_33",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        398.57,
+        409.03,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_34",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        413.59,
+        409.03,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_35",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        428.47,
+        409.03,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_36",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        399.07,
+        443.47,
+        409.03,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_37",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        248.81,
+        380.71,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_38",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        278.81,
+        380.71,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_39",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        293.69,
+        380.71,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_40",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        308.69,
+        380.71,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_41",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        323.69,
+        380.71,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_42",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        338.69,
+        380.71,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_43",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        368.57,
+        380.71,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_44",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        383.57,
+        380.71,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_45",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        398.57,
+        380.71,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_46",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        413.59,
+        380.71,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_47",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        428.47,
+        380.71,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_48",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.75,
+        443.47,
+        380.71,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "31",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        248.81,
+        366.43,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "25",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        278.81,
+        366.43,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_49",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        293.69,
+        366.43,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_50",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        308.69,
+        366.43,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_51",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        323.69,
+        366.43,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_52",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        338.69,
+        366.43,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_53",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        368.57,
+        366.43,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_54",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        383.57,
+        366.43,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_55",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        398.57,
+        366.43,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_56",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        413.59,
+        366.43,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_57",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.47,
+        428.47,
+        366.43,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "31_1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        248.81,
+        352.27,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "25_1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        278.81,
+        352.27,
+        288.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "24 Незавършено производство",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        293.69,
+        352.27,
+        303.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_59",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        308.69,
+        352.27,
+        318.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_60",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        323.69,
+        352.27,
+        333.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_61",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        338.69,
+        352.27,
+        348.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_62",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        368.57,
+        352.27,
+        378.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_63",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        383.57,
+        352.27,
+        393.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_64",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        398.57,
+        352.27,
+        408.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_65",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        413.59,
+        352.27,
+        423.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_66",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        428.47,
+        352.27,
+        438.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_67",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        342.31,
+        443.47,
+        352.27,
+        453.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "24 Незавършено производство_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.74,
+        248.81,
+        307.22,
+        260.43
+      ],
+      "onState": null
+    },
+    {
+      "name": "24 Незавършено производство_2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        238.47,
+        278.58,
+        308.19,
+        289.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "24 Незавършено производство_3",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        238.22,
+        293.35,
+        307.95,
+        304.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_68",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        308.6,
+        307.71,
+        320.21
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_69",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.74,
+        323.36,
+        308.19,
+        334.98
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_70",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.74,
+        338.61,
+        308.19,
+        349.98
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_71",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        368.38,
+        308.92,
+        379.75
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_72",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        383.38,
+        308.92,
+        394.76
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_73",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        398.39,
+        309.4,
+        409.76
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_74",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        413.15,
+        310.37,
+        424.53
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_75",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.98,
+        428.4,
+        310.37,
+        440.02
+      ],
+      "onState": null
+    },
+    {
+      "name": "001_76",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.5,
+        442.92,
+        310.85,
+        454.54
+      ],
+      "onState": null
+    },
+    {
+      "name": "31_2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.98,
+        248.09,
+        86.78,
+        259.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "25_2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.98,
+        278.09,
+        86.78,
+        289.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "16",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.98,
+        367.85,
+        86.78,
+        379.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field0",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        123.97,
+        707.0,
+        432.11,
+        719.03
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        197.07,
+        692.95,
+        552.95,
+        705.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.0,
+        706.98,
+        552.95,
+        719.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field3",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        176.97,
+        677.94,
+        237.01,
+        690.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field4",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        83.04,
+        677.94,
+        150.1,
+        690.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field5",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        268.0,
+        677.94,
+        552.95,
+        690.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box0",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        385.06,
+        443.69,
+        395.19,
+        453.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.69,
+        428.4,
+        394.62,
+        438.57
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box2",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        413.15,
+        395.35,
+        423.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box3",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.45,
+        398.87,
+        394.86,
+        408.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box4",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        383.87,
+        394.86,
+        393.79
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box5",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        369.1,
+        394.38,
+        378.54
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box6",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        338.85,
+        394.86,
+        348.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box7",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        323.6,
+        394.86,
+        333.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box8",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        308.84,
+        394.38,
+        318.76
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box9",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.94,
+        294.07,
+        394.86,
+        303.51
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box10",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.69,
+        279.07,
+        394.62,
+        288.99
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box11",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        384.45,
+        248.81,
+        394.86,
+        258.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box12",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        443.17,
+        494.13,
+        453.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box13",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        428.89,
+        494.13,
+        439.54
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box14",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        413.88,
+        494.13,
+        424.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box15",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        398.63,
+        494.13,
+        409.28
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box16",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        383.87,
+        494.13,
+        394.52
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box17",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        368.86,
+        494.13,
+        379.51
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box18",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        338.85,
+        494.13,
+        349.5
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box19",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        324.08,
+        494.13,
+        334.73
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box20",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.7,
+        308.78,
+        494.26,
+        319.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box21",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        293.83,
+        494.13,
+        304.48
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box22",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        278.82,
+        494.13,
+        289.47
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box23",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        483.47,
+        249.3,
+        494.13,
+        259.95
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box24",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        443.65,
+        508.19,
+        453.6
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box25",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        428.64,
+        508.19,
+        438.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box26",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        413.64,
+        508.19,
+        423.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box27",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        398.39,
+        508.19,
+        408.34
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box28",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        383.38,
+        508.19,
+        393.33
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box29",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        368.62,
+        508.19,
+        378.57
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box30",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        338.85,
+        508.19,
+        348.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box31",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        323.6,
+        508.19,
+        333.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box32",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        308.84,
+        508.19,
+        318.79
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box33",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        293.59,
+        508.19,
+        303.54
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box34",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        279.07,
+        508.19,
+        289.02
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box35",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        497.51,
+        249.3,
+        508.19,
+        259.25
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "001_58",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        356.44,
+        443.69,
+        366.35,
+        453.37
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 008 „Авария на товаро-разтоварни машини” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        774.6,
+        73.1,
+        784.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 009 „Щети при транспортиране на друг адрес” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        760.08,
+        73.1,
+        770.04
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 010 „Щети, причинени от морски вълни” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        745.66,
+        73.1,
+        755.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 011 „Късо съединение и токов удар” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        731.14,
+        73.1,
+        741.1
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 012 „Теч от спринклерни инсталации” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        716.62,
+        73.1,
+        726.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 013 „Стачки, бунтове, граждански вълнения” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        702.22,
+        73.1,
+        712.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 015 „Терористично действие” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        687.7,
+        73.1,
+        697.66
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "лимит на отговорност_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        773.88,
+        439.03,
+        785.4
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_2",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        759.36,
+        439.03,
+        770.88
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        744.94,
+        439.03,
+        756.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_4",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        730.42,
+        439.03,
+        741.94
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        715.9,
+        439.03,
+        727.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_6",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        701.5,
+        439.03,
+        713.02
+      ],
+      "onState": null
+    },
+    {
+      "name": "лимит на отговорност_7",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        416.11,
+        686.98,
+        439.03,
+        698.5
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 016 „Прекъсване на дейността” –",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        673.3,
+        73.1,
+        683.26
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "3 месеца",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        629.86,
+        233.33,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "6 месеца",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        629.86,
+        305.33,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "12 месеца",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        629.86,
+        377.35,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        480.34,
+        629.14,
+        503.14,
+        640.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_1",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        488.95,
+        73.1,
+        498.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 019 „Развала” за",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        183.02,
+        488.3,
+        474.56,
+        497.64
+      ],
+      "onState": null
+    },
+    {
+      "name": "Марка, модел и обем на хладилника/фризера",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        262.61,
+        473.83,
+        285.41,
+        485.35
+      ],
+      "onState": null
+    },
+    {
+      "name": "• застрахователната сума по Клауза 019",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        246.89,
+        458.59,
+        269.81,
+        470.95
+      ],
+      "onState": null
+    },
+    {
+      "name": "• лимит на отговорност по Клауза 019",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.17,
+        434.95,
+        259.97,
+        447.19
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 020 „Стоки на път”",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        421.27,
+        73.1,
+        431.23
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Лимит на отговорност за една пратка",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        227.57,
+        391.49,
+        250.37,
+        403.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "очакван брой пратки",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        339.79,
+        391.49,
+        362.59,
+        403.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Общ лимит на отговорност",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        190.25,
+        377.09,
+        213.17,
+        388.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 021 „Пари”",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        363.29,
+        73.1,
+        373.25
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "застрахователна сума",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        420.91,
+        348.05,
+        443.83,
+        359.57
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        420.91,
+        333.65,
+        443.83,
+        345.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_2",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        420.91,
+        319.13,
+        443.83,
+        330.65
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_2",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        571.87,
+        73.1,
+        581.85
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 017 „Електронно оборудване” за",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        249.05,
+        571.22,
+        370.99,
+        580.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "• застрахователната сума по Клауза 017",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        244.61,
+        556.03,
+        267.41,
+        568.27
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_3",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        64.7,
+        542.23,
+        74.66,
+        552.19
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 018 „Авария на машини” за",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        228.77,
+        541.58,
+        357.41,
+        550.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "• застрахователната сума по Клауза 018",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        246.89,
+        526.39,
+        269.81,
+        538.63
+      ],
+      "onState": null
+    },
+    {
+      "name": "• лимит на отговорност по Клауза 018",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        237.17,
+        502.75,
+        259.97,
+        514.87
+      ],
+      "onState": null
+    },
+    {
+      "name": "Самоучастие (загубите през посочения период след събитието)",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        294.65,
+        585.7,
+        317.45,
+        597.22
+      ],
+      "onState": null
+    },
+    {
+      "name": "5 дни",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        600.82,
+        377.35,
+        610.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_1",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        441.67,
+        600.82,
+        451.65,
+        610.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_2",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        480.34,
+        600.1,
+        503.14,
+        611.62
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 022 „Злополука”",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        305.45,
+        73.1,
+        315.41
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 023 „Отговорност на наемателя”",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        247.49,
+        73.1,
+        257.45
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Допълнително покритие „Правни разноски”, единичен и агрегатен лимит",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        83.06,
+        204.02,
+        93.02,
+        213.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 024 „Отговорност на работодателя”",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        189.62,
+        73.1,
+        199.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Допълнително покритие „Правни разноски”, единичен и агрегатен лимит_1",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        83.06,
+        102.74,
+        93.02,
+        112.7
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "застрахователна сума_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.15,
+        290.21,
+        425.95,
+        301.73
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_4",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        275.69,
+        425.47,
+        287.21
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        261.29,
+        425.47,
+        272.81
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_6",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        232.37,
+        425.47,
+        243.89
+      ],
+      "onState": null
+    },
+    {
+      "name": "застрахователна сума_7",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        217.82,
+        425.47,
+        229.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "–",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        203.3,
+        425.47,
+        214.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.15,
+        174.38,
+        425.95,
+        185.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_2",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        159.86,
+        425.47,
+        171.38
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        142.46,
+        425.47,
+        156.98
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_4",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        130.94,
+        425.47,
+        145.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        116.54,
+        425.47,
+        128.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_6",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        102.02,
+        425.47,
+        113.54
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        438.67,
+        614.62,
+        461.49,
+        626.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_4",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        438.67,
+        643.54,
+        461.49,
+        658.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        438.67,
+        655.06,
+        461.49,
+        669.58
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 028 „Загуба или повреда вследствие на кражба чрез взлом и грабеж или опит за извършването им”",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        629.86,
+        73.1,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Други изисквания",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        140.78,
+        432.43,
+        163.58,
+        443.95
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        462.07,
+        305.33,
+        472.03
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        334.51,
+        462.07,
+        344.47,
+        472.03
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "3 месеца_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        557.47,
+        233.33,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "6 месеца_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        557.47,
+        305.33,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "12 месеца_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        557.47,
+        377.35,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 029 „Прекъсване на бизнес вследствие на авария на машини”",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        600.82,
+        73.1,
+        610.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 028 „Загуба или повреда вследствие на кражба чрез взлом и грабеж или опит за извършването им”_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        614.62,
+        425.47,
+        626.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "Самоучастие (загубите през посочения период след събитието)_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        294.65,
+        513.31,
+        317.45,
+        524.83
+      ],
+      "onState": null
+    },
+    {
+      "name": "5 дни_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        528.43,
+        377.35,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "еднократно,",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        499.51,
+        377.35,
+        509.47
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_6",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        438.67,
+        585.7,
+        461.49,
+        597.22
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_7",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        438.67,
+        571.15,
+        461.49,
+        582.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "Клауза 025 „Отговорност към трети лица”",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        774.6,
+        73.1,
+        784.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Допълнително покритие „Правни разноски”, единичен и агрегатен лимит_2",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        83.06,
+        716.62,
+        93.02,
+        726.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Клауза 026 „Отговорност на изделието”",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        702.22,
+        73.1,
+        712.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Допълнително покритие „Правни разноски”, единичен и агрегатен лимит_3",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        83.06,
+        644.26,
+        93.02,
+        654.22
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Комбинирана застрахователна полица „Имущество”",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        759.36,
+        425.47,
+        770.88
+      ],
+      "onState": null
+    },
+    {
+      "name": "Комбинирана застрахователна полица „Имущество”_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        744.94,
+        425.47,
+        756.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "Комбинирана застрахователна полица „Имущество”_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        730.42,
+        425.47,
+        741.94
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_7",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        715.9,
+        425.47,
+        727.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_8",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        686.98,
+        425.47,
+        698.5
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_9",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        672.58,
+        425.47,
+        684.1
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_10",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        658.06,
+        425.47,
+        669.58
+      ],
+      "onState": null
+    },
+    {
+      "name": "–_11",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        402.67,
+        643.54,
+        425.47,
+        655.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "електрическа енергия",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        346.25,
+        73.1,
+        356.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "парафин и сходни продукти",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        332.69,
+        73.1,
+        342.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "полимери и полимерни продукти",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        319.25,
+        73.1,
+        329.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "зърнени култури",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        305.81,
+        73.1,
+        315.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "нефт и нефтопродукти",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        346.25,
+        233.33,
+        356.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "целулозно-хартиени продукти",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        332.69,
+        233.33,
+        342.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "изкуствени торове",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        319.25,
+        233.33,
+        329.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "текстил",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        305.81,
+        233.33,
+        315.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "избухливи газове",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        346.25,
+        377.35,
+        356.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "кибрит, взривни вещества, фойерверки",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        332.69,
+        377.35,
+        342.65
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "дърводобив, изделия от дърво",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        319.25,
+        377.35,
+        329.21
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "съхранение и преработка на отпадъци",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        305.81,
+        377.35,
+        315.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "полиуретан (PUR)",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        219.86,
+        233.33,
+        229.84
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "полиизоцианурат (PIR)",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.39,
+        219.86,
+        413.35,
+        229.84
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "сандвич-панели в конструкцията",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        234.41,
+        73.1,
+        244.37
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "eкспандиран (XPS) и екструдиран полистирен (EPS)",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        234.41,
+        233.33,
+        244.37
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "оранжерия",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        292.37,
+        73.1,
+        302.33
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго (моля посочете)",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        292.37,
+        233.33,
+        302.33
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго (моля посочете)_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        328.63,
+        291.53,
+        351.43,
+        303.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "административна",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        263.33,
+        73.1,
+        273.29
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "производствена",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        263.33,
+        197.32,
+        273.29
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "склад",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        263.33,
+        305.33,
+        273.29
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "железобетонна",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        248.81,
+        305.33,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_8",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.39,
+        263.33,
+        413.35,
+        273.29
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_9",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        442.51,
+        262.61,
+        465.33,
+        274.13
+      ],
+      "onState": null
+    },
+    {
+      "name": "метална",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.39,
+        248.81,
+        413.35,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_10",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        248.81,
+        485.38,
+        258.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_11",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        514.54,
+        248.09,
+        537.34,
+        259.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "до 20 метра",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        104.06,
+        73.1,
+        114.02
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "20 – 50 метра",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        104.06,
+        233.33,
+        114.02
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 50 метра",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.39,
+        104.06,
+        413.35,
+        114.02
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "хранителни стоки",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        60.62,
+        73.1,
+        70.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "акцизни стоки",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        151.34,
+        60.62,
+        161.3,
+        70.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "електронна техника",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        60.62,
+        233.33,
+        70.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        331.39,
+        60.62,
+        341.35,
+        70.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        370.51,
+        59.9,
+        393.31,
+        71.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_2",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        89.66,
+        485.38,
+        99.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "минерална вата (каменна вата)",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        205.46,
+        233.33,
+        215.42
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "железобетонна плоча",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        190.94,
+        233.33,
+        200.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "керемиди",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        331.39,
+        190.94,
+        341.35,
+        200.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_12",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        403.39,
+        190.94,
+        413.35,
+        200.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_13",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        442.56,
+        190.0,
+        465.31,
+        201.62
+      ],
+      "onState": null
+    },
+    {
+      "name": "до 5",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        162.02,
+        233.33,
+        171.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "до 5_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        147.5,
+        233.33,
+        157.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "1 – 2",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        223.37,
+        132.98,
+        233.33,
+        142.94
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5 – 10",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        162.02,
+        305.33,
+        171.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5 – 10_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        147.5,
+        305.33,
+        157.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "3 – 5",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        132.98,
+        305.33,
+        142.94
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "11 – 20",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        162.02,
+        377.35,
+        171.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "11 – 20_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        147.5,
+        377.35,
+        157.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "6 – 10",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        132.98,
+        377.35,
+        142.94
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 20",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        162.02,
+        449.37,
+        171.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 20_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        147.5,
+        449.37,
+        157.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 10",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        132.98,
+        449.37,
+        142.94
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_2",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.42,
+        89.66,
+        521.38,
+        99.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "разсрочено на",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        478.06,
+        556.75,
+        500.86,
+        568.27
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_14",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        528.43,
+        449.37,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_15",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        478.06,
+        527.71,
+        500.86,
+        539.23
+      ],
+      "onState": null
+    },
+    {
+      "name": "разсрочено на_1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        499.51,
+        449.37,
+        509.47
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "разсрочено на_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        510.22,
+        498.79,
+        533.02,
+        510.31
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field6",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        455.35,
+        444.44,
+        595.32,
+        459.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field7",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        454.75,
+        425.82,
+        595.32,
+        441.44
+      ],
+      "onState": null
+    },
+    {
+      "name": "детектори за дим",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        716.62,
+        73.1,
+        726.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "детектори за топлина",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        716.62,
+        197.32,
+        726.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "връзка на инсталацията с контролната зала",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        331.39,
+        716.62,
+        341.35,
+        726.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Ако отговорът е „да”, моля опишете",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        204.85,
+        758.56,
+        416.3,
+        774.77
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_3",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        774.6,
+        485.38,
+        784.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_4",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        745.66,
+        485.38,
+        755.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_3",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        774.6,
+        521.74,
+        784.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_4",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.42,
+        745.66,
+        521.38,
+        755.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "локална аларма",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        557.47,
+        73.1,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "нощна",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        542.95,
+        73.1,
+        552.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "СОТ",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        557.47,
+        197.32,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "денонощна",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        542.95,
+        197.32,
+        552.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "собствена охрана",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        557.47,
+        305.33,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "въоръжена",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        542.95,
+        305.33,
+        552.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "специализирана фирма",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        557.47,
+        449.37,
+        567.43
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "невъоръжена",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        542.95,
+        449.37,
+        552.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "телевизионни камери",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        528.43,
+        73.1,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "фотодатчици",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        528.43,
+        197.32,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "обемни датчици",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        528.43,
+        305.33,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "паник-бутон",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        439.39,
+        528.43,
+        449.37,
+        538.39
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Ако отговорът е „да”, моля посочете датата и вида на събитието, и размера на щетите",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        400.27,
+        498.79,
+        423.19,
+        510.31
+      ],
+      "onState": null
+    },
+    {
+      "name": "Ако отговорът е „да”, моля опишете_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        204.29,
+        401.45,
+        227.09,
+        412.99
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_5",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        514.03,
+        485.38,
+        523.99
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_6",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        484.99,
+        485.38,
+        494.95
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_7",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        470.59,
+        485.38,
+        480.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_8",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        443.71,
+        485.38,
+        453.67
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_9",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        430.15,
+        485.38,
+        440.11
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_10",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        415.63,
+        485.38,
+        425.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_5",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.42,
+        514.03,
+        521.38,
+        523.99
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_6",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        484.99,
+        521.74,
+        494.95
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_7",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        470.59,
+        521.74,
+        480.55
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_8",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        443.71,
+        521.74,
+        453.67
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_9",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        430.15,
+        521.74,
+        440.11
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_10",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        512.26,
+        415.63,
+        522.22,
+        425.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "пожарогасители",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        702.22,
+        73.1,
+        712.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "противопожарни кранове",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        702.22,
+        197.32,
+        712.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "допълнителен водоизточник",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        331.39,
+        702.22,
+        341.35,
+        712.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "през работно време",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        151.34,
+        586.42,
+        161.3,
+        596.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "постоянно (24 часа)",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        259.37,
+        586.42,
+        269.33,
+        596.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "целогодишно",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        586.42,
+        377.35,
+        596.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "спринклерна инсталация",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        687.7,
+        73.1,
+        697.66
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_2",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        187.34,
+        687.7,
+        197.32,
+        697.66
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_3",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        226.49,
+        686.98,
+        249.29,
+        698.5
+      ],
+      "onState": null
+    },
+    {
+      "name": "до 500 метра",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        295.37,
+        644.26,
+        305.33,
+        654.22
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "до 1 км",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        63.14,
+        658.78,
+        73.1,
+        668.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "1 – 3 км",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        151.34,
+        658.78,
+        161.3,
+        668.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "3 – 5 км",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        259.37,
+        658.78,
+        269.33,
+        668.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "5 – 10 км",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        658.78,
+        377.35,
+        668.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "500 – 2 000 метра",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        367.39,
+        644.26,
+        377.35,
+        654.22
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 10 км",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        658.78,
+        485.38,
+        668.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "над 2 000 м",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        644.26,
+        485.38,
+        654.22
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "сезонно",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        586.42,
+        485.38,
+        596.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_11",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        629.86,
+        485.38,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_12",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        615.34,
+        485.38,
+        625.3
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_13",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        475.42,
+        600.82,
+        485.38,
+        610.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_11",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.42,
+        629.86,
+        521.38,
+        639.82
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_12",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.42,
+        615.34,
+        521.38,
+        625.3
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_13",
+      "type": "/Btn",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        511.78,
+        600.82,
+        521.74,
+        610.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "декларирам, че горната информация и данни са пълни и верни",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        159.14,
+        328.01,
+        181.94,
+        339.53
+      ],
+      "onState": null
+    },
+    {
+      "name": "Гр (с)",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        70.22,
+        167.3,
+        95.3,
+        178.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "Дата",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        65.54,
+        144.38,
+        88.46,
+        155.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Подпис",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        363.53,
+        169.46,
+        450.09,
+        176.71
+      ],
+      "onState": null
+    },
+    {
+      "name": "Длъжност",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 595.32,
+      "pageHeight": 842.04,
+      "rotate": 0,
+      "rect": [
+        373.15,
+        144.38,
+        395.95,
+        155.9
+      ],
+      "onState": null
+    }
+  ]
+}

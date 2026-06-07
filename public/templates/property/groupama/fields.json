@@ -1,0 +1,3846 @@
+{
+  "provider": "groupama",
+  "source": "groupama.pdf",
+  "fields": [
+    {
+      "name": "Моля, отбележете верните отговори със знак \"Х\"",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        390.07,
+        592.08,
+        404.47
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отбележете верните отговори със знак \"Х\"_1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        122.8,
+        525.87,
+        590.13,
+        540.34
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отбележете верните отговори със знак \"Х\"_2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        99.02,
+        467.59,
+        225.64,
+        482.11
+      ],
+      "onState": null
+    },
+    {
+      "name": "Факс",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        284.09,
+        467.59,
+        405.31,
+        482.11
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отбележете верните отговори със знак \"Х\"_3",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        177.14,
+        341.33,
+        591.24,
+        355.85
+      ],
+      "onState": null
+    },
+    {
+      "name": "* задължително поле за попълване",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        177.14,
+        428.83,
+        591.24,
+        443.35
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        175.63,
+        551.1,
+        356.97,
+        564.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field0",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        177.65,
+        578.02,
+        589.46,
+        593.16
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field3",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        227.1,
+        492.9,
+        590.13,
+        507.03
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.21,
+        468.0,
+        590.13,
+        481.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field5",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        230.47,
+        404.75,
+        590.47,
+        418.54
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field6",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        224.75,
+        366.06,
+        358.99,
+        380.19
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field7",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        456.9,
+        366.06,
+        544.04,
+        381.2
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_34",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        497.94,
+        270.84,
+        509.38,
+        280.6
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_78",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        545.05,
+        271.18,
+        555.81,
+        280.6
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box412",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.28,
+        259.06,
+        509.05,
+        268.15
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_3222",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        545.05,
+        259.06,
+        555.48,
+        267.81
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.62,
+        246.95,
+        509.05,
+        256.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box5",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        246.62,
+        555.14,
+        256.37
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box6123",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.28,
+        234.5,
+        509.38,
+        243.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box73213",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.37,
+        234.17,
+        555.48,
+        243.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box82323",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.28,
+        222.39,
+        509.05,
+        231.48
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box9111",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.37,
+        222.06,
+        555.81,
+        231.81
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box123233",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.95,
+        197.5,
+        508.71,
+        206.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box13221",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        197.83,
+        555.14,
+        206.92
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1412",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.95,
+        185.38,
+        508.71,
+        194.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1513",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        185.38,
+        555.14,
+        194.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1645",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.95,
+        160.82,
+        509.05,
+        170.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1734",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        160.82,
+        555.14,
+        170.58
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1878",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.29,
+        149.38,
+        509.05,
+        158.13
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box19890",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        149.05,
+        555.14,
+        158.13
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box2033333",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.29,
+        124.49,
+        508.71,
+        133.23
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box214443",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        544.71,
+        124.82,
+        555.14,
+        133.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box223334",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        498.95,
+        100.26,
+        508.37,
+        109.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box236565",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        545.05,
+        99.59,
+        555.14,
+        109.35
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        725.28,
+        592.08,
+        737.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        713.04,
+        592.08,
+        725.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"_2",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        700.8,
+        592.08,
+        713.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        688.55,
+        592.08,
+        700.8
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"_4",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        676.3,
+        592.08,
+        688.55
+      ],
+      "onState": null
+    },
+    {
+      "name": "Моля, отговорете задължително на следващите въпроси, като отбележите верните отговори със знак \"Х\"_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        21.0,
+        665.02,
+        590.16,
+        676.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "сезонно",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        522.62,
+        178.0,
+        533.52
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "денонощно/целогодишно",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        522.62,
+        284.54,
+        533.52
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "в работно време",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        523.78,
+        454.8,
+        534.68
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        509.66,
+        178.0,
+        520.56
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        201.4,
+        510.35,
+        319.56,
+        518.58
+      ],
+      "onState": null
+    },
+    {
+      "name": "работно време/бр смени",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        466.43,
+        510.35,
+        569.89,
+        518.58
+      ],
+      "onState": null
+    },
+    {
+      "name": "паянтова",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        491.5,
+        454.8,
+        502.4
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "дървена конструкция",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        472.18,
+        454.8,
+        483.08
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "полумасивна",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        490.34,
+        284.54,
+        501.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "стоманена конструкция",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        471.02,
+        284.54,
+        481.92
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "масивна",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        490.34,
+        178.0,
+        501.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "железобетон",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        471.02,
+        178.0,
+        481.92
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друг вид",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        458.06,
+        178.0,
+        468.96
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друг вид_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        213.75,
+        458.75,
+        518.86,
+        466.98
+      ],
+      "onState": null
+    },
+    {
+      "name": "керемиди",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        438.74,
+        178.0,
+        449.64
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "ламарина",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        438.74,
+        284.54,
+        449.64
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        439.9,
+        454.8,
+        450.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        479.54,
+        439.43,
+        573.09,
+        447.65
+      ],
+      "onState": null
+    },
+    {
+      "name": "тухли",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        419.42,
+        284.54,
+        430.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "панели/стоманена констр",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        400.1,
+        284.54,
+        411.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "панели",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        420.58,
+        454.8,
+        431.48
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "дървен гредоред",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        401.26,
+        454.8,
+        412.16
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да (кога?)",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        381.94,
+        454.8,
+        392.84
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да (кога?)_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        497.45,
+        381.47,
+        556.65,
+        389.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        400.1,
+        178.0,
+        411.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "129Година на построяване",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        140.94,
+        381.47,
+        180.46,
+        389.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        394.99,
+        381.94,
+        406.59,
+        392.84
+      ],
+      "onState": null
+    },
+    {
+      "name": "1210Брой етажи",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        96.98,
+        362.13,
+        131.58,
+        370.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "; етаж/и, който обитавате",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        239.02,
+        362.13,
+        293.27,
+        370.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "; РЗП на етаж",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        353.05,
+        362.13,
+        397.48,
+        370.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "квм; РЗП общо",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        466.88,
+        362.13,
+        496.56,
+        370.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        215.31,
+        330.7,
+        226.8,
+        341.6
+      ],
+      "onState": null
+    },
+    {
+      "name": "хидранти",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        309.86,
+        178.0,
+        320.76
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "пожарогасители",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        296.9,
+        178.0,
+        307.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да (посочете)",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        329.54,
+        284.54,
+        340.44
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да (посочете)_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        342.13,
+        330.21,
+        534.15,
+        338.44
+      ],
+      "onState": null
+    },
+    {
+      "name": "вътрешни пожарни кранове",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        309.86,
+        284.54,
+        320.76
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "пожарогасителна инсталация",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        296.9,
+        284.54,
+        307.8
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "детектори за дим",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        311.02,
+        454.8,
+        321.92
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "няма никакви",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        298.06,
+        454.8,
+        308.96
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_2",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        283.94,
+        178.0,
+        294.84
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        201.42,
+        284.61,
+        511.43,
+        292.83
+      ],
+      "onState": null
+    },
+    {
+      "name": "14 Най-близката Пожарна команда",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        180.71,
+        258.7,
+        215.28,
+        266.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "Време за реагиране",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        371.65,
+        258.69,
+        416.17,
+        266.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "минути",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        447.75,
+        258.69,
+        501.96,
+        266.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        394.99,
+        233.26,
+        406.59,
+        244.16
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        233.26,
+        454.8,
+        244.16
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        394.99,
+        207.34,
+        406.59,
+        218.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        207.34,
+        454.8,
+        218.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "ограда",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        180.26,
+        178.0,
+        191.16
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "решетки на врати",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        180.26,
+        284.54,
+        191.16
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "контрол на достъпа",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        181.42,
+        454.8,
+        192.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "локална аларма",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        168.46,
+        454.8,
+        179.36
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "СОТ към полицията/охрфирма",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        155.5,
+        454.8,
+        166.4
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "наличие на \"ПАНИК\" бутон",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        142.54,
+        454.8,
+        153.44
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "осветеност на обекта",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        167.3,
+        178.0,
+        178.2
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "решетки на прозорци",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        167.3,
+        284.54,
+        178.2
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "подсилени врати",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        154.34,
+        178.0,
+        165.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "специални брави",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        141.38,
+        178.0,
+        152.28
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "охрана невъоръжена",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        154.34,
+        284.54,
+        165.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "охрана въоръжена",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        141.38,
+        284.54,
+        152.28
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "видеонаблюдение",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        128.42,
+        178.0,
+        139.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_4",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        128.42,
+        284.54,
+        139.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "други_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        310.8,
+        129.06,
+        537.27,
+        137.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "18 Съхранявани материали и стоки",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        185.44,
+        103.38,
+        510.25,
+        111.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "19 Допълнителна информация, която считате за съществена за сключване на застраховката",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        439.54,
+        77.47,
+        513.58,
+        85.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "част от сграда",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        614.06,
+        178.0,
+        624.96
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "собствена",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        594.74,
+        178.0,
+        605.64
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "самостоятелна сграда/брой сгради",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        614.06,
+        284.54,
+        624.96
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "самостоятелна сграда/брой сгради_1",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        431.13,
+        614.78,
+        475.46,
+        623.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "друго_2",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        594.74,
+        284.54,
+        605.64
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_3",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        313.23,
+        595.46,
+        495.49,
+        603.68
+      ],
+      "onState": null
+    },
+    {
+      "name": "търговия и услуги",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        272.93,
+        575.42,
+        284.54,
+        586.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "производство",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        443.31,
+        576.58,
+        454.8,
+        587.48
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_4",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.4,
+        556.1,
+        178.0,
+        567.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "друго_5",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        206.28,
+        556.82,
+        526.29,
+        565.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "",
+      "type": "?",
+      "page": 1,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        166.54,
+        421.23,
+        176.3,
+        430.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "*Покрития по",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        724.56,
+        592.08,
+        737.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "*Покрития по_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        711.6,
+        592.08,
+        724.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "*Покрития по_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        698.64,
+        592.08,
+        711.6
+      ],
+      "onState": null
+    },
+    {
+      "name": "*Покрития по_3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        685.66,
+        592.08,
+        698.64
+      ],
+      "onState": null
+    },
+    {
+      "name": "*Покрития по_4",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        19.08,
+        673.66,
+        592.08,
+        685.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "/ДА/ /НЕ/",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        225.53,
+        243.89,
+        357.55,
+        257.45
+      ],
+      "onState": null
+    },
+    {
+      "name": "/ДА/ /НЕ/_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        225.53,
+        230.21,
+        357.55,
+        243.89
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        396.55,
+        455.26,
+        410.11
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        382.87,
+        455.26,
+        396.55
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        369.17,
+        455.26,
+        382.87
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        355.49,
+        455.26,
+        369.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        341.81,
+        455.26,
+        355.49
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        328.13,
+        455.26,
+        341.81
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_4",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        314.45,
+        455.26,
+        328.13
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д5 - чупене на стъкла, витрини, рекламни надписи и табели",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        165.74,
+        455.26,
+        179.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д7 - внезапно изтичане на вода от спринклерни инсталации",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        152.06,
+        455.26,
+        165.74
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д10 - ударна/Звукова вълна",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        138.38,
+        455.26,
+        152.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        396.55,
+        543.46,
+        410.11
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11_3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        382.87,
+        543.46,
+        396.55
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_5",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        369.17,
+        543.46,
+        382.87
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_6",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        355.49,
+        543.46,
+        369.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_7",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        341.81,
+        543.46,
+        355.49
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_8",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        328.13,
+        543.46,
+        341.81
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_9",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        314.45,
+        543.46,
+        328.13
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д5 - чупене на стъкла, витрини, рекламни надписи и табели_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        165.74,
+        543.46,
+        179.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д7 - внезапно изтичане на вода от спринклерни инсталации_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        152.06,
+        543.46,
+        165.74
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д10 - ударна/Звукова вълна_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        138.38,
+        543.46,
+        152.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11_4",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        396.55,
+        591.12,
+        410.11
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11_5",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        382.87,
+        591.12,
+        396.55
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_10",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        369.17,
+        591.12,
+        382.87
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_11",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        355.49,
+        591.12,
+        369.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_12",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        341.81,
+        591.12,
+        355.49
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_13",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        328.13,
+        591.12,
+        341.81
+      ],
+      "onState": null
+    },
+    {
+      "name": "А/Б/Д2/Д3/Д4/Д6/Д8/Д9/Д11/Д14_14",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        314.45,
+        591.12,
+        328.13
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        257.57,
+        591.12,
+        307.25
+      ],
+      "onState": null
+    },
+    {
+      "name": "/0%/2%/5%/7,5%/10%/50%/",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        243.89,
+        591.12,
+        257.45
+      ],
+      "onState": null
+    },
+    {
+      "name": "/0%/2%/5%/7,5%/10%/50%/_1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        230.21,
+        591.12,
+        243.89
+      ],
+      "onState": null
+    },
+    {
+      "name": "Застраховсума(ЗС)недвимущ=сбора от ЗС за всички сгради; ЗСдвижимо=сбора от ЗСза всички движимущ",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        219.26,
+        591.12,
+        230.2
+      ],
+      "onState": null
+    },
+    {
+      "name": "Допълнителни рискове с лимити",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        201.26,
+        591.12,
+        212.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "В агрегат за срокана застраховката",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        179.42,
+        591.12,
+        201.26
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д5 - чупене на стъкла, витрини, рекламни надписи и табели_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        165.74,
+        591.12,
+        179.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д7 - внезапно изтичане на вода от спринклерни инсталации_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        152.06,
+        591.12,
+        165.74
+      ],
+      "onState": null
+    },
+    {
+      "name": "Д10 - ударна/Звукова вълна_2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        138.38,
+        591.12,
+        152.06
+      ],
+      "onState": null
+    },
+    {
+      "name": "-",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        404.58,
+        495.71,
+        552.42,
+        503.94
+      ],
+      "onState": null
+    },
+    {
+      "name": "Други/Имущества по опис",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        595.3,
+        357.55,
+        609.1
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        663.82,
+        455.26,
+        677.38
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        650.14,
+        455.26,
+        663.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_2",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        636.46,
+        455.26,
+        650.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_3",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        622.78,
+        455.26,
+        636.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_4",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        609.1,
+        455.26,
+        622.78
+      ],
+      "onState": null
+    },
+    {
+      "name": "Действителна /Възстановителнастойност",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        595.3,
+        455.26,
+        609.1
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_5",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        663.82,
+        543.46,
+        677.38
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_6",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        650.14,
+        543.46,
+        663.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_7",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        636.46,
+        543.46,
+        650.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_8",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        622.78,
+        543.46,
+        636.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_9",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        609.1,
+        543.46,
+        622.78
+      ],
+      "onState": null
+    },
+    {
+      "name": "Застрахователнасума/ Лимит наотговорност (лв)",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        595.3,
+        543.46,
+        609.1
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_10",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        663.82,
+        591.12,
+        677.38
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_11",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        650.14,
+        591.12,
+        663.82
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_12",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        636.46,
+        591.12,
+        650.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_13",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        622.78,
+        591.12,
+        636.46
+      ],
+      "onState": null
+    },
+    {
+      "name": "/К/ /КГ/ /КТ/_14",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        609.1,
+        591.12,
+        622.78
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        595.3,
+        591.12,
+        609.1
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - мобилно по приложен опис",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        467.47,
+        357.55,
+        479.71
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - стационарно по приложен опис",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        491.95,
+        455.26,
+        504.07
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - мобилно по приложен опис_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        479.71,
+        455.26,
+        491.95
+      ],
+      "onState": null
+    },
+    {
+      "name": "Действителна /Възстановителнастойност_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        467.47,
+        455.26,
+        479.71
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - стационарно по приложен опис_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        491.95,
+        543.46,
+        504.07
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - мобилно по приложен опис_2",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        479.71,
+        543.46,
+        491.95
+      ],
+      "onState": null
+    },
+    {
+      "name": "Застрахователнасума/ Лимит наотговорност (лв)_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        467.47,
+        543.46,
+        479.71
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - стационарно по приложен опис_2",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        491.95,
+        591.12,
+        504.07
+      ],
+      "onState": null
+    },
+    {
+      "name": "Електронно оборудване - мобилно по приложен опис_3",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        479.71,
+        591.12,
+        491.95
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_2",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        467.47,
+        591.12,
+        479.71
+      ],
+      "onState": null
+    },
+    {
+      "name": "Машини по приложен опис",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        216.98,
+        357.55,
+        229.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "Машини по приложен опис_1",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        229.25,
+        455.26,
+        241.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "Действителна /Възстановителна",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        216.98,
+        455.26,
+        229.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "Машини по приложен опис_2",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        229.25,
+        543.46,
+        241.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "Застрахователнасума/ Лимит на",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        216.98,
+        543.46,
+        229.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "Машини по приложен опис_3",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        229.25,
+        591.12,
+        241.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_3",
+      "type": "/Tx",
+      "page": 3,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        216.98,
+        591.12,
+        229.25
+      ],
+      "onState": null
+    },
+    {
+      "name": "Бруто печалба изчислена съгласно Приложение 1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        713.04,
+        357.55,
+        725.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "Бруто печалба изчислена съгласно Приложение 1_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        725.28,
+        455.26,
+        737.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "Бруто печалба изчислена съгласно Приложение 1_2",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        713.04,
+        455.26,
+        725.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "Бруто печалба изчислена съгласно Приложение 1_3",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        725.28,
+        543.46,
+        737.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_7",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        713.04,
+        543.46,
+        725.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "Бруто печалба изчислена съгласно Приложение 1_4",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        725.28,
+        591.12,
+        737.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "не_10",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        713.04,
+        591.12,
+        725.28
+      ],
+      "onState": null
+    },
+    {
+      "name": "Брутен доход от наем вкл всички дължими такси",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        544.06,
+        357.55,
+        556.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Брутен доход от наем вкл всички дължими такси_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        556.3,
+        455.26,
+        568.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "Период наобезщетение",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        357.55,
+        544.06,
+        455.26,
+        556.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Брутен доход от наем вкл всички дължими такси_2",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        556.3,
+        543.46,
+        568.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "Застрахователнасума/ Лимит на_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        544.06,
+        543.46,
+        556.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Брутен доход от наем вкл всички дължими такси_3",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        556.3,
+        591.12,
+        568.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_4",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        544.06,
+        591.12,
+        556.3
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        363.53,
+        455.26,
+        375.77
+      ],
+      "onState": null
+    },
+    {
+      "name": "Единичен лимит на отговорност",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        388.03,
+        543.46,
+        400.15
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        375.77,
+        543.46,
+        388.03
+      ],
+      "onState": null
+    },
+    {
+      "name": "Лимит наотговорност (лв)",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        363.53,
+        543.46,
+        375.77
+      ],
+      "onState": null
+    },
+    {
+      "name": "Единичен лимит на отговорност_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        388.03,
+        591.12,
+        400.15
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност_2",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        375.77,
+        591.12,
+        388.03
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_5",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        363.53,
+        591.12,
+        375.77
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност_3",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        20.04,
+        164.42,
+        455.26,
+        176.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "Единичен лимит на отговорност_2",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        188.9,
+        543.46,
+        201.02
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност_4",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        176.66,
+        543.46,
+        188.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Лимит наотговорност (лв)_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        455.26,
+        164.42,
+        543.46,
+        176.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "Единичен лимит на отговорност_3",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        188.9,
+        591.12,
+        201.02
+      ],
+      "onState": null
+    },
+    {
+      "name": "Агрегатен лимит на отговорност_5",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.46,
+        176.66,
+        591.12,
+        188.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "служебнополе_6",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        543.58,
+        164.42,
+        591.12,
+        176.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_8",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.73,
+        696.34,
+        511.34,
+        707.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_11",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        534.75,
+        696.34,
+        544.69,
+        707.24
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "2 Къде се съхранява счетоводната информация?",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        238.62,
+        684.38,
+        534.05,
+        692.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "3 Кой е одиторът на фирмата и колко често се извършва одит?",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        296.03,
+        672.14,
+        537.33,
+        680.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "4 Моля посочете отчетния си счетоводен период",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        239.55,
+        659.9,
+        534.98,
+        668.12
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_9",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.73,
+        647.38,
+        511.34,
+        658.28
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_12",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        534.75,
+        647.38,
+        544.69,
+        658.28
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "да_10",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.73,
+        526.42,
+        511.34,
+        537.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_13",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        534.75,
+        526.42,
+        544.69,
+        537.32
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "2 Къде се съхранява счетоводната информация?_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        238.62,
+        514.43,
+        534.05,
+        522.65
+      ],
+      "onState": null
+    },
+    {
+      "name": "3 Кой е одиторът на фирмата и колко често се извършва одит?_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        296.03,
+        502.19,
+        537.33,
+        510.42
+      ],
+      "onState": null
+    },
+    {
+      "name": "4 Моля посочете отчетния си счетоводен период_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        239.55,
+        489.95,
+        534.98,
+        498.18
+      ],
+      "onState": null
+    },
+    {
+      "name": "да_11",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        499.73,
+        477.46,
+        511.34,
+        488.36
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "не_14",
+      "type": "/Btn",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        534.75,
+        477.46,
+        544.69,
+        488.36
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "11 за предходния 12 –месечен период",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        187.94,
+        332.13,
+        532.49,
+        340.36
+      ],
+      "onState": null
+    },
+    {
+      "name": "12 за срока на застраховката",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        149.22,
+        319.89,
+        533.09,
+        328.12
+      ],
+      "onState": null
+    },
+    {
+      "name": "2 Брой на работници и служители по трудов договор в обекта",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        291.5,
+        307.65,
+        537.74,
+        315.88
+      ],
+      "onState": null
+    },
+    {
+      "name": "41 Ако да, какви?",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        100.03,
+        270.93,
+        533.21,
+        279.15
+      ],
+      "onState": null
+    },
+    {
+      "name": "11 за предходния 12 –месечен период_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        187.94,
+        134.34,
+        532.49,
+        142.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "12 за срока на застраховката_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        149.22,
+        122.1,
+        533.09,
+        130.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "2 Брой на работници и служители по трудов договор в обекта_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        291.5,
+        109.86,
+        537.74,
+        118.08
+      ],
+      "onState": null
+    },
+    {
+      "name": "41 Ако да, какви?_1",
+      "type": "/Tx",
+      "page": 4,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        100.03,
+        73.15,
+        533.21,
+        81.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "Дата",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        70.8,
+        504.79,
+        177.26,
+        514.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "еднократно",
+      "type": "/Btn",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        316.28,
+        673.41,
+        330.31,
+        685.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "разсрочено",
+      "type": "/Btn",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        440.44,
+        674.01,
+        454.48,
+        686.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "брой вноски",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        509.57,
+        662.3,
+        539.26,
+        670.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "Кандидат за застраховане",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        405.19,
+        504.79,
+        591.24,
+        514.13
+      ],
+      "onState": null
+    },
+    {
+      "name": "Предложението-въпросник е проверено на",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        202.64,
+        481.03,
+        287.54,
+        487.5
+      ],
+      "onState": null
+    },
+    {
+      "name": "от",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        405.19,
+        478.15,
+        591.24,
+        487.5
+      ],
+      "onState": null
+    },
+    {
+      "name": "Начин на плащане на застрахователната премия",
+      "type": "/Tx",
+      "page": 5,
+      "pageWidth": 612.0,
+      "pageHeight": 792.0,
+      "rotate": 0,
+      "rect": [
+        405.31,
+        724.5,
+        591.12,
+        737.52
+      ],
+      "onState": null
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+*.patch
 # dependencies
 /node_modules
 /.pnp
@@ -43,3 +44,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local sqlite db + scratch
+/data/
+*.db
+*.db-shm
+*.db-wal
+.tmp/
+.playwright-mcp/

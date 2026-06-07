@@ -1,0 +1,4476 @@
+{
+  "provider": "axiom",
+  "source": "axiom.pdf",
+  "fields": [
+    {
+      "name": "Text1",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        138.76,
+        641.73,
+        394.25,
+        659.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text2",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        433.04,
+        640.68,
+        549.24,
+        658.65
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text3",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        104.53,
+        613.73,
+        548.46,
+        630.54
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text4",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        88.91,
+        587.9,
+        245.7,
+        605.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text5",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        279.1,
+        587.92,
+        546.63,
+        604.84
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text6",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        169.4,
+        562.27,
+        198.68,
+        576.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text7",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        311.3,
+        562.13,
+        399.23,
+        579.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text8",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        463.68,
+        562.66,
+        546.37,
+        579.58
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text9",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        115.72,
+        488.3,
+        547.68,
+        505.22
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text10",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        181.18,
+        428.61,
+        238.73,
+        444.48
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text11",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        406.34,
+        428.08,
+        480.65,
+        445.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text12",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        340.36,
+        325.45,
+        511.02,
+        342.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text13",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        140.86,
+        280.42,
+        198.94,
+        297.34
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text14",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        317.32,
+        280.42,
+        372.79,
+        297.34
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text15",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        474.94,
+        282.15,
+        520.45,
+        299.27
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text16",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        368.64,
+        197.69,
+        403.68,
+        214.61
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text17",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        309.99,
+        94.01,
+        387.97,
+        110.93
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box58",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        265.48,
+        456.33,
+        283.48,
+        474.33
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box59",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        368.12,
+        456.33,
+        386.12,
+        474.33
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box60",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        192.17,
+        397.16,
+        210.17,
+        415.16
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box61",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        192.17,
+        368.88,
+        210.17,
+        386.88
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box62",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        279.62,
+        397.68,
+        297.62,
+        415.68
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box63",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        279.62,
+        368.36,
+        297.62,
+        386.36
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box64",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        333.56,
+        397.68,
+        351.56,
+        415.68
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box65",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        401.1,
+        398.2,
+        419.1,
+        416.2
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box66",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        455.56,
+        398.73,
+        473.56,
+        416.73
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box67",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.13,
+        368.88,
+        353.13,
+        386.88
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box68",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        401.63,
+        369.4,
+        419.63,
+        387.4
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box69",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        455.56,
+        369.4,
+        473.56,
+        387.4
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box70",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        261.82,
+        337.99,
+        279.82,
+        355.99
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box71",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        294.81,
+        337.99,
+        312.81,
+        355.99
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box72",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        299.0,
+        221.74,
+        317.0,
+        239.74
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box73",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.13,
+        222.26,
+        353.13,
+        240.26
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box74",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        299.0,
+        196.61,
+        317.0,
+        214.61
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box75",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.65,
+        198.18,
+        353.65,
+        216.18
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box76",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        299.52,
+        173.04,
+        317.52,
+        191.04
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box77",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.13,
+        173.04,
+        353.13,
+        191.04
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box78",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        299.52,
+        147.91,
+        317.52,
+        165.91
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box79",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.13,
+        149.48,
+        353.13,
+        167.48
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box80",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        438.28,
+        122.77,
+        456.28,
+        140.77
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box81",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        475.46,
+        123.3,
+        493.46,
+        141.3
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box82",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        353.45,
+        251.06,
+        371.45,
+        269.06
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box83",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.3,
+        251.59,
+        401.3,
+        269.59
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box84",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        484.89,
+        251.06,
+        502.89,
+        269.06
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box85",
+      "type": "/Btn",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        520.49,
+        250.54,
+        538.49,
+        268.54
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Text36",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        229.09,
+        535.03,
+        547.42,
+        550.65
+      ],
+      "onState": null
+    },
+    {
+      "name": "ПРЕДЛОЖЕНИЕ",
+      "type": "/Tx",
+      "page": 0,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        206.15,
+        761.52,
+        595.32,
+        771.74
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text18",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        84.83,
+        732.32,
+        535.11,
+        749.24
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text19",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        84.83,
+        672.1,
+        533.54,
+        689.02
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text20",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        84.31,
+        469.98,
+        532.49,
+        495.27
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text21",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        83.78,
+        401.38,
+        533.02,
+        432.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text22",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        84.83,
+        349.02,
+        530.92,
+        381.64
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box36",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        370.21,
+        707.15,
+        388.21,
+        725.15
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box37",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        406.34,
+        708.2,
+        424.34,
+        726.2
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box38",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        224.19,
+        646.9,
+        242.84,
+        664.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box39",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        298.47,
+        646.41,
+        316.47,
+        664.41
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box40",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        370.73,
+        646.41,
+        388.73,
+        664.41
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box41",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        474.94,
+        647.46,
+        492.94,
+        665.46
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box42",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        193.22,
+        618.13,
+        211.22,
+        636.13
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box43",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        228.83,
+        618.13,
+        246.83,
+        636.13
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box44",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        370.73,
+        617.08,
+        388.73,
+        635.08
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box45",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        406.34,
+        617.08,
+        424.34,
+        635.08
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box46",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        192.7,
+        590.38,
+        210.7,
+        608.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box47",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        228.83,
+        589.86,
+        246.83,
+        607.86
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box48",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        371.26,
+        590.38,
+        389.26,
+        608.38
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box49",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        406.86,
+        590.9,
+        424.86,
+        608.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box50",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        297.95,
+        560.53,
+        315.95,
+        578.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box51",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.65,
+        560.53,
+        353.65,
+        578.53
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box52",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        299.13,
+        531.07,
+        317.13,
+        549.06
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box53",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        335.65,
+        532.78,
+        353.65,
+        550.78
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box54",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        334.48,
+        501.62,
+        352.48,
+        519.62
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box55",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        369.69,
+        501.88,
+        387.69,
+        519.88
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box56",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        373.88,
+        444.29,
+        391.88,
+        462.29
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box57",
+      "type": "/Btn",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        410.53,
+        444.81,
+        428.53,
+        462.81
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Text86",
+      "type": "/Tx",
+      "page": 1,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        472.32,
+        443.27,
+        534.59,
+        460.19
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.3,
+        482.18,
+        438.81,
+        499.99
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_143",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        440.4,
+        438.96,
+        451.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_144",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        440.4,
+        497.4,
+        451.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_145",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        440.4,
+        559.68,
+        451.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_146",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        428.52,
+        438.96,
+        439.44
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_147",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        428.52,
+        497.4,
+        439.44
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_148",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        428.52,
+        559.68,
+        439.44
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_149",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        416.76,
+        438.96,
+        427.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_150",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        416.76,
+        497.4,
+        427.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_151",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        416.76,
+        559.68,
+        427.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_152",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        404.88,
+        438.96,
+        415.8
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_153",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        404.88,
+        497.4,
+        415.8
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_154",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        404.88,
+        559.68,
+        415.8
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_155",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        393.0,
+        438.96,
+        403.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_156",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        393.0,
+        497.4,
+        403.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_157",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        393.0,
+        559.68,
+        403.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_158",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.96,
+        381.12,
+        438.96,
+        392.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_159",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        440.04,
+        381.12,
+        497.4,
+        392.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_160",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        498.48,
+        381.12,
+        559.68,
+        392.04
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        285.38,
+        354.42,
+        438.28,
+        370.12
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        235.11,
+        194.71,
+        320.46,
+        209.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_165",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        234.96,
+        181.92,
+        320.4,
+        193.56
+      ],
+      "onState": null
+    },
+    {
+      "name": "fill_166",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        234.96,
+        168.36,
+        320.4,
+        180.84
+      ],
+      "onState": null
+    },
+    {
+      "name": "1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.85,
+        482.18,
+        495.36,
+        499.99
+      ],
+      "onState": null
+    },
+    {
+      "name": "2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        496.41,
+        482.18,
+        559.24,
+        499.99
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        438.81,
+        354.42,
+        497.98,
+        370.12
+      ],
+      "onState": null
+    },
+    {
+      "name": "1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        499.02,
+        354.42,
+        560.29,
+        370.12
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text23",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        80.64,
+        301.37,
+        151.81,
+        320.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text24",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        282.89,
+        302.81,
+        348.17,
+        321.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text25",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        207.36,
+        302.81,
+        227.74,
+        321.69
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text26",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        417.34,
+        301.89,
+        438.24,
+        318.81
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text27",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        493.31,
+        302.28,
+        561.86,
+        319.86
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text28",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        91.11,
+        243.24,
+        563.91,
+        260.16
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text29",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        213.64,
+        264.71,
+        269.11,
+        281.63
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text30",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        334.08,
+        222.56,
+        373.83,
+        238.17
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text31",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        81.69,
+        264.71,
+        165.43,
+        281.63
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text32",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        441.42,
+        263.66,
+        563.39,
+        281.63
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text33",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        149.76,
+        145.06,
+        573.86,
+        161.72
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text34",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        57.08,
+        47.4,
+        244.49,
+        64.32
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text35",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        348.22,
+        45.83,
+        564.43,
+        62.75
+      ],
+      "onState": null
+    },
+    {
+      "name": "1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        321.51,
+        194.71,
+        406.86,
+        209.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        407.91,
+        194.71,
+        493.26,
+        209.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        494.31,
+        195.23,
+        572.86,
+        209.37
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        235.11,
+        181.62,
+        320.46,
+        193.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        321.51,
+        182.14,
+        406.86,
+        193.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        407.91,
+        182.66,
+        493.26,
+        193.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        494.31,
+        181.62,
+        573.38,
+        193.66
+      ],
+      "onState": null
+    },
+    {
+      "name": "0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        235.11,
+        168.0,
+        320.46,
+        179.52
+      ],
+      "onState": null
+    },
+    {
+      "name": "1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        321.51,
+        168.0,
+        406.86,
+        182.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        407.91,
+        169.05,
+        493.26,
+        182.14
+      ],
+      "onState": null
+    },
+    {
+      "name": "3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        495.88,
+        167.48,
+        572.86,
+        180.57
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box87",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        178.56,
+        222.26,
+        196.56,
+        240.26
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box88",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        249.77,
+        222.26,
+        267.77,
+        240.26
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "число в %",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.32,
+        501.12,
+        561.18,
+        508.92
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box0",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        694.06,
+        203.12,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box1",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        694.06,
+        222.97,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box2",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        694.06,
+        243.07,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box3",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        694.06,
+        262.92,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box4",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        694.06,
+        283.01,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box5",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        694.06,
+        303.11,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box6",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        694.06,
+        321.99,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box7",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        694.06,
+        342.08,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box8",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        694.06,
+        361.94,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box9",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        694.06,
+        382.03,
+        708.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box10",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        680.02,
+        203.12,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box11",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        680.02,
+        222.97,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box12",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        680.02,
+        243.07,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box13",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        680.02,
+        262.92,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box14",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        680.02,
+        283.01,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box15",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        680.02,
+        303.11,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box16",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        680.02,
+        321.99,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box17",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        680.02,
+        342.08,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box18",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        680.02,
+        361.94,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box19",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        680.02,
+        382.03,
+        693.09
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box20",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        662.11,
+        203.12,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box21",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        662.11,
+        222.97,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box22",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        662.11,
+        243.07,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box23",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        662.11,
+        262.92,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box24",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        662.11,
+        283.01,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box25",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        662.11,
+        303.11,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box26",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        662.11,
+        321.99,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box27",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        662.11,
+        342.08,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box29",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        662.11,
+        382.03,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box30",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        643.96,
+        203.12,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box31",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        643.96,
+        222.97,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box32",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        643.96,
+        243.07,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box33",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        643.96,
+        262.92,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box34",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        643.96,
+        283.01,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box35",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        643.96,
+        303.11,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box86",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        643.96,
+        321.99,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box89",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        643.96,
+        342.08,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box90",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        643.96,
+        361.94,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box91",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        643.96,
+        382.03,
+        660.9
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box92",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        629.93,
+        203.12,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box93",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        629.93,
+        222.97,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box94",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        629.93,
+        243.07,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box95",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        629.93,
+        262.92,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box96",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        629.93,
+        283.01,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box97",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        629.93,
+        303.11,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box98",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        629.93,
+        321.99,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box99",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        629.93,
+        342.08,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box100",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        629.93,
+        361.94,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box101",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        629.93,
+        382.03,
+        643.0
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box102",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        612.02,
+        203.12,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box103",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        612.02,
+        222.97,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box104",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        612.02,
+        243.07,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box105",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        612.02,
+        262.92,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box106",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        612.02,
+        283.01,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box107",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        612.02,
+        303.11,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box108",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        612.02,
+        321.99,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box109",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        612.02,
+        342.08,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box110",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        612.02,
+        361.94,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box111",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        612.02,
+        382.03,
+        629.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box112",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        597.02,
+        203.12,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box113",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        597.02,
+        222.97,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box114",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        597.02,
+        243.07,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box115",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        597.02,
+        262.92,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box116",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        597.02,
+        283.01,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box117",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        597.02,
+        303.11,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box118",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        597.02,
+        321.99,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box119",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        597.02,
+        342.08,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box120",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        597.02,
+        361.94,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box121",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        597.02,
+        382.03,
+        611.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box122",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        582.98,
+        203.12,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box123",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        582.98,
+        222.97,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box124",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        582.98,
+        243.07,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box125",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        582.98,
+        262.92,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box126",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        582.98,
+        283.01,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box127",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        582.98,
+        303.11,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box128",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        582.98,
+        321.99,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box129",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        582.98,
+        342.08,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box130",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        582.98,
+        361.94,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box131",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        582.98,
+        382.03,
+        596.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box132",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        567.98,
+        203.12,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box133",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        567.98,
+        222.97,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box134",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        567.98,
+        243.07,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box135",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        567.98,
+        262.92,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box136",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        567.98,
+        283.01,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box137",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        567.98,
+        303.11,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box138",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        567.98,
+        321.99,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box139",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        567.98,
+        342.08,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box140",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        567.98,
+        361.94,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box141",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        567.98,
+        382.03,
+        582.01
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box142",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        552.97,
+        203.12,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box143",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        552.97,
+        222.97,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box144",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        552.97,
+        243.07,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box145",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        552.97,
+        262.92,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box146",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        552.97,
+        283.01,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box147",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        552.97,
+        303.11,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box148",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        552.97,
+        321.99,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box149",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        552.97,
+        342.08,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box150",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        552.97,
+        361.94,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box151",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        552.97,
+        382.03,
+        567.98
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box152",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        538.93,
+        203.12,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box153",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        538.93,
+        222.97,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box154",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        538.93,
+        243.07,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box155",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        538.93,
+        262.92,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box156",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        538.93,
+        283.01,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box157",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        538.93,
+        303.11,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box158",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        538.93,
+        321.99,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box159",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        538.93,
+        342.08,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box160",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        538.93,
+        361.94,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box161",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        538.93,
+        382.03,
+        552.97
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box162",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        523.93,
+        203.12,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box163",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        523.93,
+        222.97,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box164",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        523.93,
+        243.07,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box165",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        523.93,
+        262.92,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box166",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        523.93,
+        283.01,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box167",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        523.93,
+        303.11,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box168",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        523.93,
+        321.99,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box169",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        523.93,
+        342.08,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box170",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        523.93,
+        361.94,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box171",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        523.93,
+        382.03,
+        538.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box172",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        184.96,
+        508.93,
+        203.12,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box173",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        204.09,
+        508.93,
+        222.97,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box174",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        223.94,
+        508.93,
+        243.07,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box175",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        243.07,
+        508.93,
+        262.92,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box176",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        263.89,
+        508.93,
+        283.01,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box177",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        283.98,
+        508.93,
+        303.11,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box178",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        304.08,
+        508.93,
+        321.99,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box179",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        322.96,
+        508.93,
+        342.08,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box180",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.08,
+        508.93,
+        361.94,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Check Box181",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        362.91,
+        508.93,
+        382.03,
+        523.93
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Text Field0",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        694.06,
+        438.92,
+        708.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field1",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        680.02,
+        438.92,
+        693.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field2",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        662.11,
+        438.92,
+        679.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field3",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        643.96,
+        438.92,
+        660.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field4",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        629.93,
+        438.92,
+        643.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field5",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        612.02,
+        438.92,
+        628.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field6",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        597.02,
+        438.92,
+        611.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field7",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        582.98,
+        438.92,
+        596.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field8",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        567.98,
+        438.92,
+        582.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field9",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        552.97,
+        438.92,
+        567.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field10",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        538.93,
+        438.92,
+        552.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field11",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        523.93,
+        438.92,
+        537.97
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field12",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        383.0,
+        508.93,
+        438.92,
+        522.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Check Box28",
+      "type": "/Btn",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        342.33,
+        662.11,
+        362.18,
+        679.05
+      ],
+      "onState": "/Yes"
+    },
+    {
+      "name": "Text Field13",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        694.06,
+        489.04,
+        708.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field14",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        680.02,
+        489.04,
+        693.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field15",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        662.11,
+        489.04,
+        679.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field16",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        643.96,
+        489.04,
+        660.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field17",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        629.93,
+        489.04,
+        643.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field18",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        612.02,
+        489.04,
+        628.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field19",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        597.01,
+        489.04,
+        611.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field20",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        582.98,
+        489.04,
+        596.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field21",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        567.98,
+        489.04,
+        582.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field22",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        552.97,
+        489.04,
+        567.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field23",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        538.93,
+        489.04,
+        552.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field24",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        523.93,
+        489.04,
+        537.97
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field25",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        439.89,
+        508.93,
+        489.04,
+        522.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field26",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        694.06,
+        559.97,
+        708.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field27",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        680.02,
+        559.97,
+        693.09
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field28",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        662.11,
+        559.97,
+        679.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field29",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        643.96,
+        559.97,
+        660.9
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field30",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        629.93,
+        559.97,
+        643.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field31",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        612.02,
+        559.97,
+        628.96
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field32",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        597.01,
+        559.97,
+        611.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field33",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        582.98,
+        559.97,
+        596.05
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field34",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        567.98,
+        559.97,
+        582.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field35",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        552.97,
+        559.97,
+        567.01
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field36",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        538.93,
+        559.97,
+        552.0
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field37",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        523.93,
+        559.97,
+        537.97
+      ],
+      "onState": null
+    },
+    {
+      "name": "Text Field38",
+      "type": "/Tx",
+      "page": 2,
+      "pageWidth": 595.32,
+      "pageHeight": 841.92,
+      "rotate": 0,
+      "rect": [
+        490.01,
+        508.93,
+        559.97,
+        522.96
+      ],
+      "onState": null
+    }
+  ]
+}
